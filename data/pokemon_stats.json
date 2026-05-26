@@ -1,0 +1,10426 @@
+{
+  "フシギダネ": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 45
+  },
+  "フシギソウ": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 60
+  },
+  "フシギバナ": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 80
+  },
+  "メガフシギバナ": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 123,
+    "sp_attack": 122,
+    "sp_defense": 120,
+    "speed": 80
+  },
+  "ヒトカゲ": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "sp_attack": 60,
+    "sp_defense": 50,
+    "speed": 65
+  },
+  "リザード": {
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "sp_attack": 80,
+    "sp_defense": 65,
+    "speed": 80
+  },
+  "リザードン": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "sp_attack": 109,
+    "sp_defense": 85,
+    "speed": 100
+  },
+  "メガリザードンＸ": {
+    "hp": 78,
+    "attack": 130,
+    "defense": 111,
+    "sp_attack": 130,
+    "sp_defense": 85,
+    "speed": 100
+  },
+  "メガリザードンエックス": {
+    "hp": 78,
+    "attack": 130,
+    "defense": 111,
+    "sp_attack": 130,
+    "sp_defense": 85,
+    "speed": 100
+  },
+  "メガリザードンY": {
+    "hp": 78,
+    "attack": 104,
+    "defense": 78,
+    "sp_attack": 159,
+    "sp_defense": 115,
+    "speed": 100
+  },
+  "メガリザードンワイ": {
+    "hp": 78,
+    "attack": 104,
+    "defense": 78,
+    "sp_attack": 159,
+    "sp_defense": 115,
+    "speed": 100
+  },
+  "ゼニガメ": {
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "sp_attack": 50,
+    "sp_defense": 64,
+    "speed": 43
+  },
+  "カメール": {
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "sp_attack": 65,
+    "sp_defense": 80,
+    "speed": 58
+  },
+  "カメックス": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "sp_attack": 85,
+    "sp_defense": 105,
+    "speed": 78
+  },
+  "メガカメックス": {
+    "hp": 79,
+    "attack": 103,
+    "defense": 120,
+    "sp_attack": 135,
+    "sp_defense": 115,
+    "speed": 78
+  },
+  "キャタピー": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "sp_attack": 20,
+    "sp_defense": 20,
+    "speed": 45
+  },
+  "トランセル": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 30
+  },
+  "バタフリー": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 70
+  },
+  "ビードル": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "sp_attack": 20,
+    "sp_defense": 20,
+    "speed": 50
+  },
+  "コクーン": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 35
+  },
+  "スピアー": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "sp_attack": 45,
+    "sp_defense": 80,
+    "speed": 75
+  },
+  "メガスピアー": {
+    "hp": 65,
+    "attack": 150,
+    "defense": 40,
+    "sp_attack": 15,
+    "sp_defense": 80,
+    "speed": 145
+  },
+  "ポッポ": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 56
+  },
+  "ピジョン": {
+    "hp": 63,
+    "attack": 60,
+    "defense": 55,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 71
+  },
+  "ピジョット": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 101
+  },
+  "メガピジョット": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 135,
+    "sp_defense": 80,
+    "speed": 121
+  },
+  "コラッタ": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "sp_attack": 25,
+    "sp_defense": 35,
+    "speed": 72
+  },
+  "アローラのすがた": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 50,
+    "sp_defense": 80,
+    "speed": 45
+  },
+  "アローラ": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 50,
+    "sp_defense": 80,
+    "speed": 45
+  },
+  "ラッタ": {
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "sp_attack": 50,
+    "sp_defense": 70,
+    "speed": 97
+  },
+  "オニスズメ": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "sp_attack": 31,
+    "sp_defense": 31,
+    "speed": 70
+  },
+  "オニドリル": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "sp_attack": 61,
+    "sp_defense": 61,
+    "speed": 100
+  },
+  "アーボ": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "sp_attack": 40,
+    "sp_defense": 54,
+    "speed": 55
+  },
+  "アーボック": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 69,
+    "sp_attack": 65,
+    "sp_defense": 79,
+    "speed": 80
+  },
+  "ピカチュウ": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 90
+  },
+  "あいぼう": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 85,
+    "speed": 75
+  },
+  "ライチュウ": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "sp_attack": 90,
+    "sp_defense": 80,
+    "speed": 110
+  },
+  "メガライチュウX": {
+    "hp": 60,
+    "attack": 135,
+    "defense": 95,
+    "sp_attack": 90,
+    "sp_defense": 95,
+    "speed": 110
+  },
+  "メガライチュウエックス": {
+    "hp": 60,
+    "attack": 135,
+    "defense": 95,
+    "sp_attack": 90,
+    "sp_defense": 95,
+    "speed": 110
+  },
+  "メガライチュウY": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 55,
+    "sp_attack": 160,
+    "sp_defense": 80,
+    "speed": 130
+  },
+  "メガライチュウワイ": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 55,
+    "sp_attack": 160,
+    "sp_defense": 80,
+    "speed": 130
+  },
+  "サンド": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "sp_attack": 20,
+    "sp_defense": 30,
+    "speed": 40
+  },
+  "サンドパン": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 65
+  },
+  "ニドラン♀": {
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 41
+  },
+  "ニドランメス": {
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 41
+  },
+  "ニドリーナ": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 56
+  },
+  "ニドクイン": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 87,
+    "sp_attack": 75,
+    "sp_defense": 85,
+    "speed": 76
+  },
+  "ニドラン♂": {
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 50
+  },
+  "ニドランオス": {
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 50
+  },
+  "ニドリーノ": {
+    "hp": 61,
+    "attack": 72,
+    "defense": 57,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 65
+  },
+  "ニドキング": {
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 85
+  },
+  "ピッピ": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "sp_attack": 60,
+    "sp_defense": 65,
+    "speed": 35
+  },
+  "ピクシー": {
+    "hp": 95,
+    "attack": 70,
+    "defense": 73,
+    "sp_attack": 95,
+    "sp_defense": 90,
+    "speed": 60
+  },
+  "メガピクシー": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 93,
+    "sp_attack": 135,
+    "sp_defense": 110,
+    "speed": 70
+  },
+  "ロコン": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "sp_attack": 50,
+    "sp_defense": 65,
+    "speed": 65
+  },
+  "キュウコン": {
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "sp_attack": 81,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "プリン": {
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "sp_attack": 45,
+    "sp_defense": 25,
+    "speed": 20
+  },
+  "プクリン": {
+    "hp": 140,
+    "attack": 70,
+    "defense": 45,
+    "sp_attack": 85,
+    "sp_defense": 50,
+    "speed": 45
+  },
+  "ズバット": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "sp_attack": 30,
+    "sp_defense": 40,
+    "speed": 55
+  },
+  "ゴルバット": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 90
+  },
+  "ナゾノクサ": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "sp_attack": 75,
+    "sp_defense": 65,
+    "speed": 30
+  },
+  "クサイハナ": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 40
+  },
+  "ラフレシア": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "sp_attack": 110,
+    "sp_defense": 90,
+    "speed": 50
+  },
+  "パラス": {
+    "hp": 35,
+    "attack": 70,
+    "defense": 55,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 25
+  },
+  "パラセクト": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "sp_attack": 60,
+    "sp_defense": 80,
+    "speed": 30
+  },
+  "コンパン": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 55,
+    "speed": 45
+  },
+  "モルフォン": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 90,
+    "sp_defense": 75,
+    "speed": 90
+  },
+  "ディグダ": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "sp_attack": 35,
+    "sp_defense": 45,
+    "speed": 95
+  },
+  "ダグトリオ": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "sp_attack": 50,
+    "sp_defense": 70,
+    "speed": 120
+  },
+  "ニャース": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 90
+  },
+  "ガラルのすがた": {
+    "hp": 109,
+    "attack": 81,
+    "defense": 99,
+    "sp_attack": 66,
+    "sp_defense": 84,
+    "speed": 32
+  },
+  "ガラル": {
+    "hp": 109,
+    "attack": 81,
+    "defense": 99,
+    "sp_attack": 66,
+    "sp_defense": 84,
+    "speed": 32
+  },
+  "ペルシアン": {
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 115
+  },
+  "コダック": {
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "sp_attack": 65,
+    "sp_defense": 50,
+    "speed": 55
+  },
+  "ゴルダック": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "sp_attack": 95,
+    "sp_defense": 80,
+    "speed": 85
+  },
+  "マンキー": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "sp_attack": 35,
+    "sp_defense": 45,
+    "speed": 70
+  },
+  "オコリザル": {
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 95
+  },
+  "ガーディ": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "sp_attack": 70,
+    "sp_defense": 50,
+    "speed": 60
+  },
+  "ヒスイのすがた": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 80,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 60
+  },
+  "ヒスイ": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 80,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 60
+  },
+  "ウインディ": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "sp_attack": 100,
+    "sp_defense": 80,
+    "speed": 95
+  },
+  "ニョロモ": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 90
+  },
+  "ニョロゾ": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 90
+  },
+  "ニョロボン": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 70,
+    "sp_defense": 90,
+    "speed": 70
+  },
+  "ケーシィ": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "sp_attack": 105,
+    "sp_defense": 55,
+    "speed": 90
+  },
+  "ユンゲラー": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "sp_attack": 120,
+    "sp_defense": 70,
+    "speed": 105
+  },
+  "フーディン": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "sp_attack": 135,
+    "sp_defense": 95,
+    "speed": 120
+  },
+  "メガフーディン": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 65,
+    "sp_attack": 175,
+    "sp_defense": 105,
+    "speed": 150
+  },
+  "ワンリキー": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 35
+  },
+  "ゴーリキー": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 50,
+    "sp_defense": 60,
+    "speed": 45
+  },
+  "カイリキー": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "sp_attack": 65,
+    "sp_defense": 85,
+    "speed": 55
+  },
+  "マダツボミ": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "sp_attack": 70,
+    "sp_defense": 30,
+    "speed": 40
+  },
+  "ウツドン": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "sp_attack": 85,
+    "sp_defense": 45,
+    "speed": 55
+  },
+  "ウツボット": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "sp_attack": 100,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "メガウツボット": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 85,
+    "sp_attack": 135,
+    "sp_defense": 95,
+    "speed": 70
+  },
+  "メノクラゲ": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "sp_attack": 50,
+    "sp_defense": 100,
+    "speed": 70
+  },
+  "ドククラゲ": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 120,
+    "speed": 100
+  },
+  "イシツブテ": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 20
+  },
+  "ゴローン": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 35
+  },
+  "ゴローニャ": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 130,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 45
+  },
+  "ポニータ": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 55,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 90
+  },
+  "ギャロップ": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 105
+  },
+  "ヤドン": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 15
+  },
+  "ヤドラン": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "sp_attack": 100,
+    "sp_defense": 80,
+    "speed": 30
+  },
+  "メガヤドラン": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 180,
+    "sp_attack": 130,
+    "sp_defense": 80,
+    "speed": 30
+  },
+  "コイル": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "sp_attack": 95,
+    "sp_defense": 55,
+    "speed": 45
+  },
+  "レアコイル": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "sp_attack": 120,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "カモネギ": {
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "sp_attack": 58,
+    "sp_defense": 62,
+    "speed": 60
+  },
+  "ドードー": {
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 75
+  },
+  "ドードリオ": {
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 110
+  },
+  "パウワウ": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "sp_attack": 45,
+    "sp_defense": 70,
+    "speed": 45
+  },
+  "ジュゴン": {
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "sp_attack": 70,
+    "sp_defense": 95,
+    "speed": 70
+  },
+  "ベトベター": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 25
+  },
+  "ベトベトン": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "sp_attack": 65,
+    "sp_defense": 100,
+    "speed": 50
+  },
+  "シェルダー": {
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "sp_attack": 45,
+    "sp_defense": 25,
+    "speed": 40
+  },
+  "パルシェン": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "sp_attack": 85,
+    "sp_defense": 45,
+    "speed": 70
+  },
+  "ゴース": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "sp_attack": 100,
+    "sp_defense": 35,
+    "speed": 80
+  },
+  "ゴースト": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "sp_attack": 115,
+    "sp_defense": 55,
+    "speed": 95
+  },
+  "ゲンガー": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 130,
+    "sp_defense": 75,
+    "speed": 110
+  },
+  "メガゲンガー": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 80,
+    "sp_attack": 170,
+    "sp_defense": 95,
+    "speed": 130
+  },
+  "イワーク": {
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "sp_attack": 30,
+    "sp_defense": 45,
+    "speed": 70
+  },
+  "スリープ": {
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "sp_attack": 43,
+    "sp_defense": 90,
+    "speed": 42
+  },
+  "スリーパー": {
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "sp_attack": 73,
+    "sp_defense": 115,
+    "speed": 67
+  },
+  "クラブ": {
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 50
+  },
+  "キングラー": {
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 75
+  },
+  "ビリリダマ": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 100
+  },
+  "マルマイン": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 150
+  },
+  "タマタマ": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "sp_attack": 60,
+    "sp_defense": 45,
+    "speed": 40
+  },
+  "ナッシー": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "sp_attack": 125,
+    "sp_defense": 75,
+    "speed": 55
+  },
+  "カラカラ": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 35
+  },
+  "ガラガラ": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 50,
+    "sp_defense": 80,
+    "speed": 45
+  },
+  "サワムラー": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "sp_attack": 35,
+    "sp_defense": 110,
+    "speed": 87
+  },
+  "エビワラー": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "sp_attack": 35,
+    "sp_defense": 110,
+    "speed": 76
+  },
+  "ベロリンガ": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "sp_attack": 60,
+    "sp_defense": 75,
+    "speed": 30
+  },
+  "ドガース": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "sp_attack": 60,
+    "sp_defense": 45,
+    "speed": 35
+  },
+  "マタドガス": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "sp_attack": 85,
+    "sp_defense": 70,
+    "speed": 60
+  },
+  "サイホーン": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 25
+  },
+  "サイドン": {
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 40
+  },
+  "ラッキー": {
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "sp_attack": 35,
+    "sp_defense": 105,
+    "speed": 50
+  },
+  "モンジャラ": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "sp_attack": 100,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "ガルーラ": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "sp_attack": 40,
+    "sp_defense": 80,
+    "speed": 90
+  },
+  "メガガルーラ": {
+    "hp": 105,
+    "attack": 125,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "タッツー": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 25,
+    "speed": 60
+  },
+  "シードラ": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 45,
+    "speed": 85
+  },
+  "トサキント": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "sp_attack": 35,
+    "sp_defense": 50,
+    "speed": 63
+  },
+  "アズマオウ": {
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 65,
+    "sp_defense": 80,
+    "speed": 68
+  },
+  "ヒトデマン": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "sp_attack": 70,
+    "sp_defense": 55,
+    "speed": 85
+  },
+  "スターミー": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "sp_attack": 100,
+    "sp_defense": 85,
+    "speed": 115
+  },
+  "メガスターミー": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 105,
+    "sp_attack": 130,
+    "sp_defense": 105,
+    "speed": 120
+  },
+  "バリヤード": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "sp_attack": 100,
+    "sp_defense": 120,
+    "speed": 90
+  },
+  "ストライク": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "sp_attack": 55,
+    "sp_defense": 80,
+    "speed": 105
+  },
+  "ルージュラ": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "sp_attack": 115,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "エレブー": {
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "sp_attack": 95,
+    "sp_defense": 85,
+    "speed": 105
+  },
+  "ブーバー": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "sp_attack": 100,
+    "sp_defense": 85,
+    "speed": 93
+  },
+  "カイロス": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "sp_attack": 55,
+    "sp_defense": 70,
+    "speed": 85
+  },
+  "メガカイロス": {
+    "hp": 65,
+    "attack": 155,
+    "defense": 120,
+    "sp_attack": 65,
+    "sp_defense": 90,
+    "speed": 105
+  },
+  "ケンタロス": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 95,
+    "sp_attack": 40,
+    "sp_defense": 70,
+    "speed": 110
+  },
+  "パルデアのすがた・コンバットしゅ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "sp_attack": 30,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "パルデア": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 15
+  },
+  "パルデアのすがたコンバットしゅ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "sp_attack": 30,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "パルデアのすがた・ブレイズしゅ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "sp_attack": 30,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "パルデアのすがたブレイズしゅ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "sp_attack": 30,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "パルデアのすがた・ウォーターしゅ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "sp_attack": 30,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "パルデアのすがたウォーターしゅ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 105,
+    "sp_attack": 30,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "コイキング": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "sp_attack": 15,
+    "sp_defense": 20,
+    "speed": 80
+  },
+  "ギャラドス": {
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "sp_attack": 60,
+    "sp_defense": 100,
+    "speed": 81
+  },
+  "メガギャラドス": {
+    "hp": 95,
+    "attack": 155,
+    "defense": 109,
+    "sp_attack": 70,
+    "sp_defense": 130,
+    "speed": 81
+  },
+  "ラプラス": {
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "sp_attack": 85,
+    "sp_defense": 95,
+    "speed": 60
+  },
+  "メタモン": {
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "sp_attack": 48,
+    "sp_defense": 48,
+    "speed": 48
+  },
+  "イーブイ": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "sp_attack": 45,
+    "sp_defense": 65,
+    "speed": 55
+  },
+  "シャワーズ": {
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 110,
+    "sp_defense": 95,
+    "speed": 65
+  },
+  "サンダース": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 110,
+    "sp_defense": 95,
+    "speed": 130
+  },
+  "ブースター": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "sp_attack": 95,
+    "sp_defense": 110,
+    "speed": 65
+  },
+  "ポリゴン": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 40
+  },
+  "オムナイト": {
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "sp_attack": 90,
+    "sp_defense": 55,
+    "speed": 35
+  },
+  "オムスター": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "sp_attack": 115,
+    "sp_defense": 70,
+    "speed": 55
+  },
+  "カブト": {
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "sp_attack": 55,
+    "sp_defense": 45,
+    "speed": 55
+  },
+  "カブトプス": {
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "sp_attack": 65,
+    "sp_defense": 70,
+    "speed": 80
+  },
+  "プテラ": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "sp_attack": 60,
+    "sp_defense": 75,
+    "speed": 130
+  },
+  "メガプテラ": {
+    "hp": 80,
+    "attack": 135,
+    "defense": 85,
+    "sp_attack": 70,
+    "sp_defense": 95,
+    "speed": 150
+  },
+  "カビゴン": {
+    "hp": 160,
+    "attack": 110,
+    "defense": 65,
+    "sp_attack": 65,
+    "sp_defense": 110,
+    "speed": 30
+  },
+  "フリーザー": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "sp_attack": 95,
+    "sp_defense": 125,
+    "speed": 85
+  },
+  "サンダー": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "sp_attack": 125,
+    "sp_defense": 90,
+    "speed": 100
+  },
+  "ファイヤー": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "sp_attack": 125,
+    "sp_defense": 85,
+    "speed": 90
+  },
+  "ミニリュウ": {
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 50
+  },
+  "ハクリュー": {
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "カイリュー": {
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 80
+  },
+  "メガカイリュー": {
+    "hp": 91,
+    "attack": 124,
+    "defense": 115,
+    "sp_attack": 145,
+    "sp_defense": 125,
+    "speed": 100
+  },
+  "ミュウツー": {
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "sp_attack": 154,
+    "sp_defense": 90,
+    "speed": 130
+  },
+  "メガミュウツーX": {
+    "hp": 106,
+    "attack": 190,
+    "defense": 100,
+    "sp_attack": 154,
+    "sp_defense": 100,
+    "speed": 130
+  },
+  "メガミュウツーエックス": {
+    "hp": 106,
+    "attack": 190,
+    "defense": 100,
+    "sp_attack": 154,
+    "sp_defense": 100,
+    "speed": 130
+  },
+  "メガミュウツーY": {
+    "hp": 106,
+    "attack": 150,
+    "defense": 70,
+    "sp_attack": 194,
+    "sp_defense": 120,
+    "speed": 140
+  },
+  "メガミュウツーワイ": {
+    "hp": 106,
+    "attack": 150,
+    "defense": 70,
+    "sp_attack": 194,
+    "sp_defense": 120,
+    "speed": 140
+  },
+  "ミュウ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "チコリータ": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "sp_attack": 49,
+    "sp_defense": 65,
+    "speed": 45
+  },
+  "ベイリーフ": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "sp_attack": 63,
+    "sp_defense": 80,
+    "speed": 60
+  },
+  "メガニウム": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "sp_attack": 83,
+    "sp_defense": 100,
+    "speed": 80
+  },
+  "メガメガニウム": {
+    "hp": 80,
+    "attack": 92,
+    "defense": 115,
+    "sp_attack": 143,
+    "sp_defense": 115,
+    "speed": 80
+  },
+  "ヒノアラシ": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "sp_attack": 60,
+    "sp_defense": 50,
+    "speed": 65
+  },
+  "マグマラシ": {
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "sp_attack": 80,
+    "sp_defense": 65,
+    "speed": 80
+  },
+  "バクフーン": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "sp_attack": 109,
+    "sp_defense": 85,
+    "speed": 100
+  },
+  "ワニノコ": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "sp_attack": 44,
+    "sp_defense": 48,
+    "speed": 43
+  },
+  "アリゲイツ": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 59,
+    "sp_defense": 63,
+    "speed": 58
+  },
+  "オーダイル": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "sp_attack": 79,
+    "sp_defense": 83,
+    "speed": 78
+  },
+  "メガオーダイル": {
+    "hp": 85,
+    "attack": 160,
+    "defense": 125,
+    "sp_attack": 89,
+    "sp_defense": 93,
+    "speed": 78
+  },
+  "オタチ": {
+    "hp": 35,
+    "attack": 46,
+    "defense": 34,
+    "sp_attack": 35,
+    "sp_defense": 45,
+    "speed": 20
+  },
+  "オオタチ": {
+    "hp": 85,
+    "attack": 76,
+    "defense": 64,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 90
+  },
+  "ホーホー": {
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "sp_attack": 36,
+    "sp_defense": 56,
+    "speed": 50
+  },
+  "ヨルノズク": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 50,
+    "sp_attack": 86,
+    "sp_defense": 96,
+    "speed": 70
+  },
+  "レディバ": {
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "sp_attack": 40,
+    "sp_defense": 80,
+    "speed": 55
+  },
+  "レディアン": {
+    "hp": 55,
+    "attack": 35,
+    "defense": 50,
+    "sp_attack": 55,
+    "sp_defense": 110,
+    "speed": 85
+  },
+  "イトマル": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 30
+  },
+  "アリアドス": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 40
+  },
+  "クロバット": {
+    "hp": 85,
+    "attack": 90,
+    "defense": 80,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 130
+  },
+  "チョンチー": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "sp_attack": 56,
+    "sp_defense": 56,
+    "speed": 67
+  },
+  "ランターン": {
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "sp_attack": 76,
+    "sp_defense": 76,
+    "speed": 67
+  },
+  "ピチュー": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 15,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 60
+  },
+  "ピィ": {
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 15
+  },
+  "ププリン": {
+    "hp": 90,
+    "attack": 30,
+    "defense": 15,
+    "sp_attack": 40,
+    "sp_defense": 20,
+    "speed": 15
+  },
+  "トゲピー": {
+    "hp": 35,
+    "attack": 20,
+    "defense": 65,
+    "sp_attack": 40,
+    "sp_defense": 65,
+    "speed": 20
+  },
+  "トゲチック": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 85,
+    "sp_attack": 80,
+    "sp_defense": 105,
+    "speed": 40
+  },
+  "ネイティ": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "sp_attack": 70,
+    "sp_defense": 45,
+    "speed": 70
+  },
+  "ネイティオ": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "sp_attack": 95,
+    "sp_defense": 70,
+    "speed": 95
+  },
+  "メリープ": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 40,
+    "sp_attack": 65,
+    "sp_defense": 45,
+    "speed": 35
+  },
+  "モココ": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "sp_attack": 80,
+    "sp_defense": 60,
+    "speed": 45
+  },
+  "デンリュウ": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "sp_attack": 115,
+    "sp_defense": 90,
+    "speed": 55
+  },
+  "メガデンリュウ": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 105,
+    "sp_attack": 165,
+    "sp_defense": 110,
+    "speed": 45
+  },
+  "キレイハナ": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "sp_attack": 90,
+    "sp_defense": 100,
+    "speed": 50
+  },
+  "マリル": {
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "sp_attack": 20,
+    "sp_defense": 50,
+    "speed": 40
+  },
+  "マリルリ": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "sp_attack": 60,
+    "sp_defense": 80,
+    "speed": 50
+  },
+  "ウソッキー": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "sp_attack": 30,
+    "sp_defense": 65,
+    "speed": 30
+  },
+  "ニョロトノ": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "sp_attack": 90,
+    "sp_defense": 100,
+    "speed": 70
+  },
+  "ハネッコ": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 40,
+    "sp_attack": 35,
+    "sp_defense": 55,
+    "speed": 50
+  },
+  "ポポッコ": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "sp_attack": 45,
+    "sp_defense": 65,
+    "speed": 80
+  },
+  "ワタッコ": {
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "sp_attack": 55,
+    "sp_defense": 95,
+    "speed": 110
+  },
+  "エイパム": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 55,
+    "sp_attack": 40,
+    "sp_defense": 55,
+    "speed": 85
+  },
+  "ヒマナッツ": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 30
+  },
+  "キマワリ": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 55,
+    "sp_attack": 105,
+    "sp_defense": 85,
+    "speed": 30
+  },
+  "ヤンヤンマ": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "sp_attack": 75,
+    "sp_defense": 45,
+    "speed": 95
+  },
+  "ウパー": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 15
+  },
+  "パルデアのすがた": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 15
+  },
+  "ヌオー": {
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 35
+  },
+  "エーフィ": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 130,
+    "sp_defense": 95,
+    "speed": 110
+  },
+  "ブラッキー": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 110,
+    "sp_attack": 60,
+    "sp_defense": 130,
+    "speed": 65
+  },
+  "ヤミカラス": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "sp_attack": 85,
+    "sp_defense": 42,
+    "speed": 91
+  },
+  "ヤドキング": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "sp_attack": 100,
+    "sp_defense": 110,
+    "speed": 30
+  },
+  "ムウマ": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 85,
+    "sp_defense": 85,
+    "speed": 85
+  },
+  "アンノーン": {
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "sp_attack": 72,
+    "sp_defense": 48,
+    "speed": 48
+  },
+  "ソーナンス": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "sp_attack": 33,
+    "sp_defense": 58,
+    "speed": 33
+  },
+  "キリンリキ": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "sp_attack": 90,
+    "sp_defense": 65,
+    "speed": 85
+  },
+  "クヌギダマ": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 15
+  },
+  "フォレトス": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 40
+  },
+  "ノコッチ": {
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 45
+  },
+  "グライガー": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "sp_attack": 35,
+    "sp_defense": 65,
+    "speed": 85
+  },
+  "ハガネール": {
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 30
+  },
+  "メガハガネール": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 230,
+    "sp_attack": 55,
+    "sp_defense": 95,
+    "speed": 30
+  },
+  "ブルー": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 30
+  },
+  "グランブル": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 45
+  },
+  "ハリーセン": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 85,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 85
+  },
+  "ハッサム": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "sp_attack": 55,
+    "sp_defense": 80,
+    "speed": 65
+  },
+  "メガハッサム": {
+    "hp": 70,
+    "attack": 150,
+    "defense": 140,
+    "sp_attack": 65,
+    "sp_defense": 100,
+    "speed": 75
+  },
+  "ツボツボ": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "sp_attack": 10,
+    "sp_defense": 230,
+    "speed": 5
+  },
+  "ヘラクロス": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "sp_attack": 40,
+    "sp_defense": 95,
+    "speed": 85
+  },
+  "メガヘラクロス": {
+    "hp": 80,
+    "attack": 185,
+    "defense": 115,
+    "sp_attack": 40,
+    "sp_defense": 105,
+    "speed": 75
+  },
+  "ニューラ": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "sp_attack": 35,
+    "sp_defense": 75,
+    "speed": 115
+  },
+  "ヒメグマ": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 40
+  },
+  "リングマ": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "sp_attack": 75,
+    "sp_defense": 75,
+    "speed": 55
+  },
+  "マグマッグ": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "sp_attack": 70,
+    "sp_defense": 40,
+    "speed": 20
+  },
+  "マグカルゴ": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 120,
+    "sp_attack": 90,
+    "sp_defense": 80,
+    "speed": 30
+  },
+  "ウリムー": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 50
+  },
+  "イノムー": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 80,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 50
+  },
+  "サニーゴ": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 95,
+    "sp_attack": 65,
+    "sp_defense": 95,
+    "speed": 35
+  },
+  "テッポウオ": {
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "sp_attack": 65,
+    "sp_defense": 35,
+    "speed": 65
+  },
+  "オクタン": {
+    "hp": 75,
+    "attack": 105,
+    "defense": 75,
+    "sp_attack": 105,
+    "sp_defense": 75,
+    "speed": 45
+  },
+  "デリバード": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "sp_attack": 65,
+    "sp_defense": 45,
+    "speed": 75
+  },
+  "マンタイン": {
+    "hp": 85,
+    "attack": 40,
+    "defense": 70,
+    "sp_attack": 80,
+    "sp_defense": 140,
+    "speed": 70
+  },
+  "エアームド": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "sp_attack": 40,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "メガエアームド": {
+    "hp": 65,
+    "attack": 140,
+    "defense": 110,
+    "sp_attack": 40,
+    "sp_defense": 100,
+    "speed": 110
+  },
+  "デルビル": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "sp_attack": 80,
+    "sp_defense": 50,
+    "speed": 65
+  },
+  "ヘルガー": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "sp_attack": 110,
+    "sp_defense": 80,
+    "speed": 95
+  },
+  "メガヘルガー": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 90,
+    "sp_attack": 140,
+    "sp_defense": 90,
+    "speed": 115
+  },
+  "キングドラ": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 85
+  },
+  "ゴマゾウ": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 40
+  },
+  "ドンファン": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 120,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 50
+  },
+  "ポリゴン２": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 90,
+    "sp_attack": 105,
+    "sp_defense": 95,
+    "speed": 60
+  },
+  "ポリゴンツー": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 90,
+    "sp_attack": 105,
+    "sp_defense": 95,
+    "speed": 60
+  },
+  "オドシシ": {
+    "hp": 73,
+    "attack": 95,
+    "defense": 62,
+    "sp_attack": 85,
+    "sp_defense": 65,
+    "speed": 85
+  },
+  "ドーブル": {
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "sp_attack": 20,
+    "sp_defense": 45,
+    "speed": 75
+  },
+  "バルキー": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 35,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 35
+  },
+  "カポエラー": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 35,
+    "sp_defense": 110,
+    "speed": 70
+  },
+  "ムチュール": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "sp_attack": 85,
+    "sp_defense": 65,
+    "speed": 65
+  },
+  "エレキッド": {
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "sp_attack": 65,
+    "sp_defense": 55,
+    "speed": 95
+  },
+  "ブビィ": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "sp_attack": 70,
+    "sp_defense": 55,
+    "speed": 83
+  },
+  "ミルタンク": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "sp_attack": 40,
+    "sp_defense": 70,
+    "speed": 100
+  },
+  "ハピナス": {
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "sp_attack": 75,
+    "sp_defense": 135,
+    "speed": 55
+  },
+  "ライコウ": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 75,
+    "sp_attack": 115,
+    "sp_defense": 100,
+    "speed": 115
+  },
+  "エンテイ": {
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "sp_attack": 90,
+    "sp_defense": 75,
+    "speed": 100
+  },
+  "スイクン": {
+    "hp": 100,
+    "attack": 75,
+    "defense": 115,
+    "sp_attack": 90,
+    "sp_defense": 115,
+    "speed": 85
+  },
+  "ヨーギラス": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "sp_attack": 45,
+    "sp_defense": 50,
+    "speed": 41
+  },
+  "サナギラス": {
+    "hp": 70,
+    "attack": 84,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 70,
+    "speed": 51
+  },
+  "バンギラス": {
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "sp_attack": 95,
+    "sp_defense": 100,
+    "speed": 61
+  },
+  "メガバンギラス": {
+    "hp": 100,
+    "attack": 164,
+    "defense": 150,
+    "sp_attack": 95,
+    "sp_defense": 120,
+    "speed": 71
+  },
+  "ルギア": {
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "sp_attack": 90,
+    "sp_defense": 154,
+    "speed": 110
+  },
+  "ホウオウ": {
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "sp_attack": 110,
+    "sp_defense": 154,
+    "speed": 90
+  },
+  "セレビィ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "キモリ": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "sp_attack": 65,
+    "sp_defense": 55,
+    "speed": 70
+  },
+  "ジュプトル": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "sp_attack": 85,
+    "sp_defense": 65,
+    "speed": 95
+  },
+  "ジュカイン": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "sp_attack": 105,
+    "sp_defense": 85,
+    "speed": 120
+  },
+  "メガジュカイン": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 75,
+    "sp_attack": 145,
+    "sp_defense": 85,
+    "speed": 145
+  },
+  "アチャモ": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "sp_attack": 70,
+    "sp_defense": 50,
+    "speed": 45
+  },
+  "ワカシャモ": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "sp_attack": 85,
+    "sp_defense": 60,
+    "speed": 55
+  },
+  "バシャーモ": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "sp_attack": 110,
+    "sp_defense": 70,
+    "speed": 80
+  },
+  "メガバシャーモ": {
+    "hp": 80,
+    "attack": 160,
+    "defense": 80,
+    "sp_attack": 130,
+    "sp_defense": 80,
+    "speed": 100
+  },
+  "ミズゴロウ": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 40
+  },
+  "ヌマクロー": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 50
+  },
+  "ラグラージ": {
+    "hp": 100,
+    "attack": 110,
+    "defense": 90,
+    "sp_attack": 85,
+    "sp_defense": 90,
+    "speed": 60
+  },
+  "メガラグラージ": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 110,
+    "sp_attack": 95,
+    "sp_defense": 110,
+    "speed": 70
+  },
+  "ポチエナ": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 35,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 35
+  },
+  "グラエナ": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 70
+  },
+  "ジグザグマ": {
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "sp_attack": 30,
+    "sp_defense": 41,
+    "speed": 60
+  },
+  "マッスグマ": {
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "sp_attack": 50,
+    "sp_defense": 61,
+    "speed": 100
+  },
+  "ケムッソ": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "sp_attack": 20,
+    "sp_defense": 30,
+    "speed": 20
+  },
+  "カラサリス": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 15
+  },
+  "アゲハント": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "sp_attack": 100,
+    "sp_defense": 50,
+    "speed": 65
+  },
+  "マユルド": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 15
+  },
+  "ドクケイル": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "sp_attack": 50,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "ハスボー": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 30
+  },
+  "ハスブレロ": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 50
+  },
+  "ルンパッパ": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 90,
+    "sp_defense": 100,
+    "speed": 70
+  },
+  "タネボー": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 30
+  },
+  "コノハナ": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "sp_attack": 60,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "ダーテング": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "sp_attack": 90,
+    "sp_defense": 60,
+    "speed": 80
+  },
+  "スバメ": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 85
+  },
+  "オオスバメ": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "sp_attack": 75,
+    "sp_defense": 50,
+    "speed": 125
+  },
+  "キャモメ": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "sp_attack": 55,
+    "sp_defense": 30,
+    "speed": 85
+  },
+  "ペリッパー": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 100,
+    "sp_attack": 95,
+    "sp_defense": 70,
+    "speed": 65
+  },
+  "ラルトス": {
+    "hp": 28,
+    "attack": 25,
+    "defense": 25,
+    "sp_attack": 45,
+    "sp_defense": 35,
+    "speed": 40
+  },
+  "キルリア": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 35,
+    "sp_attack": 65,
+    "sp_defense": 55,
+    "speed": 50
+  },
+  "サーナイト": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 125,
+    "sp_defense": 115,
+    "speed": 80
+  },
+  "メガサーナイト": {
+    "hp": 68,
+    "attack": 85,
+    "defense": 65,
+    "sp_attack": 165,
+    "sp_defense": 135,
+    "speed": 100
+  },
+  "アメタマ": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "sp_attack": 50,
+    "sp_defense": 52,
+    "speed": 65
+  },
+  "アメモース": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "sp_attack": 100,
+    "sp_defense": 82,
+    "speed": 80
+  },
+  "キノココ": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 60,
+    "speed": 35
+  },
+  "キノガッサ": {
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 70
+  },
+  "ナマケロ": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 30
+  },
+  "ヤルキモノ": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 90
+  },
+  "ケッキング": {
+    "hp": 150,
+    "attack": 160,
+    "defense": 100,
+    "sp_attack": 95,
+    "sp_defense": 65,
+    "speed": 100
+  },
+  "ツチニン": {
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 40
+  },
+  "テッカニン": {
+    "hp": 61,
+    "attack": 90,
+    "defense": 45,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 160
+  },
+  "ヌケニン": {
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 40
+  },
+  "ゴニョニョ": {
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "sp_attack": 51,
+    "sp_defense": 23,
+    "speed": 28
+  },
+  "ドゴーム": {
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "sp_attack": 71,
+    "sp_defense": 43,
+    "speed": 48
+  },
+  "バクオング": {
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "sp_attack": 91,
+    "sp_defense": 73,
+    "speed": 68
+  },
+  "マクノシタ": {
+    "hp": 72,
+    "attack": 60,
+    "defense": 30,
+    "sp_attack": 20,
+    "sp_defense": 30,
+    "speed": 25
+  },
+  "ハリテヤマ": {
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 60,
+    "speed": 50
+  },
+  "ルリリ": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "sp_attack": 20,
+    "sp_defense": 40,
+    "speed": 20
+  },
+  "ノズパス": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 135,
+    "sp_attack": 45,
+    "sp_defense": 90,
+    "speed": 30
+  },
+  "エネコ": {
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 50
+  },
+  "エネコロロ": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 90
+  },
+  "ヤミラミ": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 50
+  },
+  "メガヤミラミ": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 125,
+    "sp_attack": 85,
+    "sp_defense": 115,
+    "speed": 20
+  },
+  "クチート": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 50
+  },
+  "メガクチート": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 125,
+    "sp_attack": 55,
+    "sp_defense": 95,
+    "speed": 50
+  },
+  "ココドラ": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 100,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 30
+  },
+  "コドラ": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 40
+  },
+  "ボスゴドラ": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 50
+  },
+  "メガボスゴドラ": {
+    "hp": 70,
+    "attack": 140,
+    "defense": 230,
+    "sp_attack": 60,
+    "sp_defense": 80,
+    "speed": 50
+  },
+  "アサナン": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 55,
+    "sp_attack": 40,
+    "sp_defense": 55,
+    "speed": 60
+  },
+  "チャーレム": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "sp_attack": 60,
+    "sp_defense": 75,
+    "speed": 80
+  },
+  "メガチャーレム": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 85,
+    "sp_attack": 80,
+    "sp_defense": 85,
+    "speed": 100
+  },
+  "ラクライ": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 65,
+    "sp_defense": 40,
+    "speed": 65
+  },
+  "ライボルト": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "sp_attack": 105,
+    "sp_defense": 60,
+    "speed": 105
+  },
+  "メガライボルト": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 80,
+    "sp_attack": 135,
+    "sp_defense": 80,
+    "speed": 135
+  },
+  "プラスル": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 95
+  },
+  "マイナン": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "sp_attack": 75,
+    "sp_defense": 85,
+    "speed": 95
+  },
+  "バルビート": {
+    "hp": 65,
+    "attack": 73,
+    "defense": 75,
+    "sp_attack": 47,
+    "sp_defense": 85,
+    "speed": 85
+  },
+  "イルミーゼ": {
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "sp_attack": 73,
+    "sp_defense": 85,
+    "speed": 85
+  },
+  "ロゼリア": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 45,
+    "sp_attack": 100,
+    "sp_defense": 80,
+    "speed": 65
+  },
+  "ゴクリン": {
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "sp_attack": 43,
+    "sp_defense": 53,
+    "speed": 40
+  },
+  "マルノーム": {
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "sp_attack": 73,
+    "sp_defense": 83,
+    "speed": 55
+  },
+  "キバニア": {
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "sp_attack": 65,
+    "sp_defense": 20,
+    "speed": 65
+  },
+  "サメハダー": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 40,
+    "sp_attack": 95,
+    "sp_defense": 40,
+    "speed": 95
+  },
+  "メガサメハダー": {
+    "hp": 70,
+    "attack": 140,
+    "defense": 70,
+    "sp_attack": 110,
+    "sp_defense": 65,
+    "speed": 105
+  },
+  "ホエルコ": {
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "sp_attack": 70,
+    "sp_defense": 35,
+    "speed": 60
+  },
+  "ホエルオー": {
+    "hp": 170,
+    "attack": 90,
+    "defense": 45,
+    "sp_attack": 90,
+    "sp_defense": 45,
+    "speed": 60
+  },
+  "ドンメル": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "sp_attack": 65,
+    "sp_defense": 45,
+    "speed": 35
+  },
+  "バクーダ": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 105,
+    "sp_defense": 75,
+    "speed": 40
+  },
+  "メガバクーダ": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 100,
+    "sp_attack": 145,
+    "sp_defense": 105,
+    "speed": 20
+  },
+  "コータス": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "sp_attack": 85,
+    "sp_defense": 70,
+    "speed": 20
+  },
+  "バネブー": {
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 60
+  },
+  "ブーピッグ": {
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "sp_attack": 90,
+    "sp_defense": 110,
+    "speed": 80
+  },
+  "パッチール": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 60
+  },
+  "ナックラー": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 10
+  },
+  "ビブラーバ": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 70
+  },
+  "フライゴン": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 100
+  },
+  "サボネア": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "sp_attack": 85,
+    "sp_defense": 40,
+    "speed": 35
+  },
+  "ノクタス": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "sp_attack": 115,
+    "sp_defense": 60,
+    "speed": 55
+  },
+  "チルット": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 75,
+    "speed": 50
+  },
+  "チルタリス": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "sp_attack": 70,
+    "sp_defense": 105,
+    "speed": 80
+  },
+  "メガチルタリス": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 110,
+    "sp_attack": 110,
+    "sp_defense": 105,
+    "speed": 80
+  },
+  "ザングース": {
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 90
+  },
+  "ハブネーク": {
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "sp_attack": 100,
+    "sp_defense": 60,
+    "speed": 65
+  },
+  "ルナトーン": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "sp_attack": 95,
+    "sp_defense": 85,
+    "speed": 70
+  },
+  "ソルロック": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 85,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 70
+  },
+  "ドジョッチ": {
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "sp_attack": 46,
+    "sp_defense": 41,
+    "speed": 60
+  },
+  "ナマズン": {
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "sp_attack": 76,
+    "sp_defense": 71,
+    "speed": 60
+  },
+  "ヘイガニ": {
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "sp_attack": 50,
+    "sp_defense": 35,
+    "speed": 35
+  },
+  "シザリガー": {
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "sp_attack": 90,
+    "sp_defense": 55,
+    "speed": 55
+  },
+  "ヤジロン": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "sp_attack": 40,
+    "sp_defense": 70,
+    "speed": 55
+  },
+  "ネンドール": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "sp_attack": 70,
+    "sp_defense": 120,
+    "speed": 75
+  },
+  "リリーラ": {
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "sp_attack": 61,
+    "sp_defense": 87,
+    "speed": 23
+  },
+  "ユレイドル": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "sp_attack": 81,
+    "sp_defense": 107,
+    "speed": 43
+  },
+  "アノプス": {
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 75
+  },
+  "アーマルド": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 45
+  },
+  "ヒンバス": {
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "sp_attack": 10,
+    "sp_defense": 55,
+    "speed": 80
+  },
+  "ミロカロス": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "sp_attack": 100,
+    "sp_defense": 125,
+    "speed": 81
+  },
+  "ポワルンのすがた": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "ポワルン": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "たいようのすがた": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "たいよう": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "あまみずのすがた": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "あまみず": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "ゆきぐものすがた": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "ゆきぐも": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "カクレオン": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 120,
+    "speed": 40
+  },
+  "カゲボウズ": {
+    "hp": 44,
+    "attack": 75,
+    "defense": 35,
+    "sp_attack": 63,
+    "sp_defense": 33,
+    "speed": 45
+  },
+  "ジュペッタ": {
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "sp_attack": 83,
+    "sp_defense": 63,
+    "speed": 65
+  },
+  "メガジュペッタ": {
+    "hp": 64,
+    "attack": 165,
+    "defense": 75,
+    "sp_attack": 93,
+    "sp_defense": 83,
+    "speed": 75
+  },
+  "ヨマワル": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "sp_attack": 30,
+    "sp_defense": 90,
+    "speed": 25
+  },
+  "サマヨール": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "sp_attack": 60,
+    "sp_defense": 130,
+    "speed": 25
+  },
+  "トロピウス": {
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "sp_attack": 72,
+    "sp_defense": 87,
+    "speed": 51
+  },
+  "チリーン": {
+    "hp": 75,
+    "attack": 50,
+    "defense": 80,
+    "sp_attack": 95,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "メガチリーン": {
+    "hp": 75,
+    "attack": 50,
+    "defense": 110,
+    "sp_attack": 135,
+    "sp_defense": 120,
+    "speed": 65
+  },
+  "アブソル": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "sp_attack": 75,
+    "sp_defense": 60,
+    "speed": 75
+  },
+  "メガアブソル": {
+    "hp": 65,
+    "attack": 150,
+    "defense": 60,
+    "sp_attack": 115,
+    "sp_defense": 60,
+    "speed": 115
+  },
+  "メガアブソルZ": {
+    "hp": 65,
+    "attack": 154,
+    "defense": 60,
+    "sp_attack": 75,
+    "sp_defense": 60,
+    "speed": 151
+  },
+  "メガアブソルゼット": {
+    "hp": 65,
+    "attack": 154,
+    "defense": 60,
+    "sp_attack": 75,
+    "sp_defense": 60,
+    "speed": 151
+  },
+  "ソーナノ": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "sp_attack": 23,
+    "sp_defense": 48,
+    "speed": 23
+  },
+  "ユキワラシ": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 50,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 50
+  },
+  "オニゴーリ": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 80
+  },
+  "メガオニゴーリ": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "sp_attack": 120,
+    "sp_defense": 80,
+    "speed": 100
+  },
+  "タマザラシ": {
+    "hp": 70,
+    "attack": 40,
+    "defense": 50,
+    "sp_attack": 55,
+    "sp_defense": 50,
+    "speed": 25
+  },
+  "トドグラー": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "sp_attack": 75,
+    "sp_defense": 70,
+    "speed": 45
+  },
+  "トドゼルガ": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 90,
+    "sp_attack": 95,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "パールル": {
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "sp_attack": 74,
+    "sp_defense": 55,
+    "speed": 32
+  },
+  "ハンテール": {
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "sp_attack": 94,
+    "sp_defense": 75,
+    "speed": 52
+  },
+  "サクラビス": {
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "sp_attack": 114,
+    "sp_defense": 75,
+    "speed": 52
+  },
+  "ジーランス": {
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "sp_attack": 45,
+    "sp_defense": 65,
+    "speed": 55
+  },
+  "ラブカス": {
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "sp_attack": 40,
+    "sp_defense": 65,
+    "speed": 97
+  },
+  "タツベイ": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 30,
+    "speed": 50
+  },
+  "コモルー": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 50,
+    "speed": 50
+  },
+  "ボーマンダ": {
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "sp_attack": 110,
+    "sp_defense": 80,
+    "speed": 100
+  },
+  "メガボーマンダ": {
+    "hp": 95,
+    "attack": 145,
+    "defense": 130,
+    "sp_attack": 120,
+    "sp_defense": 90,
+    "speed": 120
+  },
+  "ダンバル": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "sp_attack": 35,
+    "sp_defense": 60,
+    "speed": 30
+  },
+  "メタング": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 100,
+    "sp_attack": 55,
+    "sp_defense": 80,
+    "speed": 50
+  },
+  "メタグロス": {
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "sp_attack": 95,
+    "sp_defense": 90,
+    "speed": 70
+  },
+  "メガメタグロス": {
+    "hp": 80,
+    "attack": 145,
+    "defense": 150,
+    "sp_attack": 105,
+    "sp_defense": 110,
+    "speed": 110
+  },
+  "レジロック": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 200,
+    "sp_attack": 50,
+    "sp_defense": 100,
+    "speed": 50
+  },
+  "レジアイス": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 200,
+    "speed": 50
+  },
+  "レジスチル": {
+    "hp": 80,
+    "attack": 75,
+    "defense": 150,
+    "sp_attack": 75,
+    "sp_defense": 150,
+    "speed": 50
+  },
+  "ラティアス": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "sp_attack": 110,
+    "sp_defense": 130,
+    "speed": 110
+  },
+  "メガラティアス": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 120,
+    "sp_attack": 140,
+    "sp_defense": 150,
+    "speed": 110
+  },
+  "ラティオス": {
+    "hp": 80,
+    "attack": 90,
+    "defense": 80,
+    "sp_attack": 130,
+    "sp_defense": 110,
+    "speed": 110
+  },
+  "メガラティオス": {
+    "hp": 80,
+    "attack": 130,
+    "defense": 100,
+    "sp_attack": 160,
+    "sp_defense": 120,
+    "speed": 110
+  },
+  "カイオーガ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "sp_attack": 150,
+    "sp_defense": 140,
+    "speed": 90
+  },
+  "ゲンシカイキのすがた": {
+    "hp": 100,
+    "attack": 180,
+    "defense": 160,
+    "sp_attack": 150,
+    "sp_defense": 90,
+    "speed": 90
+  },
+  "ゲンシカイキ": {
+    "hp": 100,
+    "attack": 180,
+    "defense": 160,
+    "sp_attack": 150,
+    "sp_defense": 90,
+    "speed": 90
+  },
+  "グラードン": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "sp_attack": 100,
+    "sp_defense": 90,
+    "speed": 90
+  },
+  "レックウザ": {
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "sp_attack": 150,
+    "sp_defense": 90,
+    "speed": 95
+  },
+  "メガレックウザ": {
+    "hp": 105,
+    "attack": 180,
+    "defense": 100,
+    "sp_attack": 180,
+    "sp_defense": 100,
+    "speed": 115
+  },
+  "ジラーチ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "ノーマルフォルム": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 85,
+    "sp_attack": 65,
+    "sp_defense": 85,
+    "speed": 60
+  },
+  "デオキシス": {
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "sp_attack": 150,
+    "sp_defense": 50,
+    "speed": 150
+  },
+  "アタックフォルム": {
+    "hp": 50,
+    "attack": 180,
+    "defense": 20,
+    "sp_attack": 180,
+    "sp_defense": 20,
+    "speed": 150
+  },
+  "ディフェンスフォルム": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 160,
+    "sp_attack": 70,
+    "sp_defense": 160,
+    "speed": 90
+  },
+  "スピードフォルム": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 90,
+    "sp_attack": 95,
+    "sp_defense": 90,
+    "speed": 180
+  },
+  "ナエトル": {
+    "hp": 55,
+    "attack": 68,
+    "defense": 64,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 31
+  },
+  "ハヤシガメ": {
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 36
+  },
+  "ドダイトス": {
+    "hp": 95,
+    "attack": 109,
+    "defense": 105,
+    "sp_attack": 75,
+    "sp_defense": 85,
+    "speed": 56
+  },
+  "ヒコザル": {
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "sp_attack": 58,
+    "sp_defense": 44,
+    "speed": 61
+  },
+  "モウカザル": {
+    "hp": 64,
+    "attack": 78,
+    "defense": 52,
+    "sp_attack": 78,
+    "sp_defense": 52,
+    "speed": 81
+  },
+  "ゴウカザル": {
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "sp_attack": 104,
+    "sp_defense": 71,
+    "speed": 108
+  },
+  "ポッチャマ": {
+    "hp": 53,
+    "attack": 51,
+    "defense": 53,
+    "sp_attack": 61,
+    "sp_defense": 56,
+    "speed": 40
+  },
+  "ポッタイシ": {
+    "hp": 64,
+    "attack": 66,
+    "defense": 68,
+    "sp_attack": 81,
+    "sp_defense": 76,
+    "speed": 50
+  },
+  "エンペルト": {
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "sp_attack": 111,
+    "sp_defense": 101,
+    "speed": 60
+  },
+  "ムックル": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 60
+  },
+  "ムクバード": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 80
+  },
+  "ムクホーク": {
+    "hp": 85,
+    "attack": 120,
+    "defense": 70,
+    "sp_attack": 50,
+    "sp_defense": 60,
+    "speed": 100
+  },
+  "メガムクホーク": {
+    "hp": 85,
+    "attack": 140,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 90,
+    "speed": 110
+  },
+  "ビッパ": {
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 35,
+    "sp_defense": 40,
+    "speed": 31
+  },
+  "ビーダル": {
+    "hp": 79,
+    "attack": 85,
+    "defense": 60,
+    "sp_attack": 55,
+    "sp_defense": 60,
+    "speed": 71
+  },
+  "コロボーシ": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "sp_attack": 25,
+    "sp_defense": 41,
+    "speed": 25
+  },
+  "コロトック": {
+    "hp": 77,
+    "attack": 85,
+    "defense": 51,
+    "sp_attack": 55,
+    "sp_defense": 51,
+    "speed": 65
+  },
+  "コリンク": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 34,
+    "sp_attack": 40,
+    "sp_defense": 34,
+    "speed": 45
+  },
+  "ルクシオ": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 49,
+    "sp_attack": 60,
+    "sp_defense": 49,
+    "speed": 60
+  },
+  "レントラー": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 79,
+    "sp_attack": 95,
+    "sp_defense": 79,
+    "speed": 70
+  },
+  "スボミー": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "sp_attack": 50,
+    "sp_defense": 70,
+    "speed": 55
+  },
+  "ロズレイド": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 65,
+    "sp_attack": 125,
+    "sp_defense": 105,
+    "speed": 90
+  },
+  "ズガイドス": {
+    "hp": 67,
+    "attack": 125,
+    "defense": 40,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 58
+  },
+  "ラムパルド": {
+    "hp": 97,
+    "attack": 165,
+    "defense": 60,
+    "sp_attack": 65,
+    "sp_defense": 50,
+    "speed": 58
+  },
+  "タテトプス": {
+    "hp": 30,
+    "attack": 42,
+    "defense": 118,
+    "sp_attack": 42,
+    "sp_defense": 88,
+    "speed": 30
+  },
+  "トリデプス": {
+    "hp": 60,
+    "attack": 52,
+    "defense": 168,
+    "sp_attack": 47,
+    "sp_defense": 138,
+    "speed": 30
+  },
+  "くさきのミノ": {
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "sp_attack": 79,
+    "sp_defense": 105,
+    "speed": 36
+  },
+  "ミノムッチ": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "sp_attack": 29,
+    "sp_defense": 45,
+    "speed": 36
+  },
+  "ミノマダム": {
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "sp_attack": 79,
+    "sp_defense": 105,
+    "speed": 36
+  },
+  "すなちのミノ": {
+    "hp": 60,
+    "attack": 79,
+    "defense": 105,
+    "sp_attack": 59,
+    "sp_defense": 85,
+    "speed": 36
+  },
+  "ゴミのミノ": {
+    "hp": 60,
+    "attack": 69,
+    "defense": 95,
+    "sp_attack": 69,
+    "sp_defense": 95,
+    "speed": 36
+  },
+  "ガーメイル": {
+    "hp": 70,
+    "attack": 94,
+    "defense": 50,
+    "sp_attack": 94,
+    "sp_defense": 50,
+    "speed": 66
+  },
+  "ミツハニー": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "sp_attack": 30,
+    "sp_defense": 42,
+    "speed": 70
+  },
+  "ビークイン": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 102,
+    "sp_attack": 80,
+    "sp_defense": 102,
+    "speed": 40
+  },
+  "パチリス": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "sp_attack": 45,
+    "sp_defense": 90,
+    "speed": 95
+  },
+  "ブイゼル": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "sp_attack": 60,
+    "sp_defense": 30,
+    "speed": 85
+  },
+  "フローゼル": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "sp_attack": 85,
+    "sp_defense": 50,
+    "speed": 115
+  },
+  "チェリンボ": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "sp_attack": 62,
+    "sp_defense": 53,
+    "speed": 35
+  },
+  "ネガフォルム": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "sp_attack": 87,
+    "sp_defense": 78,
+    "speed": 85
+  },
+  "チェリム": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "sp_attack": 87,
+    "sp_defense": 78,
+    "speed": 85
+  },
+  "ひがしのうみ": {
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "sp_attack": 92,
+    "sp_defense": 82,
+    "speed": 39
+  },
+  "カラナクシ": {
+    "hp": 76,
+    "attack": 48,
+    "defense": 48,
+    "sp_attack": 57,
+    "sp_defense": 62,
+    "speed": 34
+  },
+  "トリトドン": {
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "sp_attack": 92,
+    "sp_defense": 82,
+    "speed": 39
+  },
+  "エテボース": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 66,
+    "sp_attack": 60,
+    "sp_defense": 66,
+    "speed": 115
+  },
+  "フワンテ": {
+    "hp": 90,
+    "attack": 50,
+    "defense": 34,
+    "sp_attack": 60,
+    "sp_defense": 44,
+    "speed": 70
+  },
+  "フワライド": {
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "sp_attack": 90,
+    "sp_defense": 54,
+    "speed": 80
+  },
+  "ミミロル": {
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "sp_attack": 44,
+    "sp_defense": 56,
+    "speed": 85
+  },
+  "ミミロップ": {
+    "hp": 65,
+    "attack": 76,
+    "defense": 84,
+    "sp_attack": 54,
+    "sp_defense": 96,
+    "speed": 105
+  },
+  "メガミミロップ": {
+    "hp": 65,
+    "attack": 136,
+    "defense": 94,
+    "sp_attack": 54,
+    "sp_defense": 96,
+    "speed": 135
+  },
+  "ムウマージ": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 105,
+    "sp_defense": 105,
+    "speed": 105
+  },
+  "ドンカラス": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "sp_attack": 105,
+    "sp_defense": 52,
+    "speed": 71
+  },
+  "ニャルマー": {
+    "hp": 49,
+    "attack": 55,
+    "defense": 42,
+    "sp_attack": 42,
+    "sp_defense": 37,
+    "speed": 85
+  },
+  "ブニャット": {
+    "hp": 71,
+    "attack": 82,
+    "defense": 64,
+    "sp_attack": 64,
+    "sp_defense": 59,
+    "speed": 112
+  },
+  "リーシャン": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "sp_attack": 65,
+    "sp_defense": 50,
+    "speed": 45
+  },
+  "スカンプー": {
+    "hp": 63,
+    "attack": 63,
+    "defense": 47,
+    "sp_attack": 41,
+    "sp_defense": 41,
+    "speed": 74
+  },
+  "スカタンク": {
+    "hp": 103,
+    "attack": 93,
+    "defense": 67,
+    "sp_attack": 71,
+    "sp_defense": 61,
+    "speed": 84
+  },
+  "ドーミラー": {
+    "hp": 57,
+    "attack": 24,
+    "defense": 86,
+    "sp_attack": 24,
+    "sp_defense": 86,
+    "speed": 23
+  },
+  "ドータクン": {
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "sp_attack": 79,
+    "sp_defense": 116,
+    "speed": 33
+  },
+  "ウソハチ": {
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "sp_attack": 10,
+    "sp_defense": 45,
+    "speed": 10
+  },
+  "マネネ": {
+    "hp": 20,
+    "attack": 25,
+    "defense": 45,
+    "sp_attack": 70,
+    "sp_defense": 90,
+    "speed": 60
+  },
+  "ピンプク": {
+    "hp": 100,
+    "attack": 5,
+    "defense": 5,
+    "sp_attack": 15,
+    "sp_defense": 65,
+    "speed": 30
+  },
+  "ペラップ": {
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "sp_attack": 92,
+    "sp_defense": 42,
+    "speed": 91
+  },
+  "ミカルゲ": {
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "sp_attack": 92,
+    "sp_defense": 108,
+    "speed": 35
+  },
+  "フカマル": {
+    "hp": 58,
+    "attack": 70,
+    "defense": 45,
+    "sp_attack": 40,
+    "sp_defense": 45,
+    "speed": 42
+  },
+  "ガバイト": {
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "sp_attack": 50,
+    "sp_defense": 55,
+    "speed": 82
+  },
+  "ガブリアス": {
+    "hp": 108,
+    "attack": 130,
+    "defense": 95,
+    "sp_attack": 80,
+    "sp_defense": 85,
+    "speed": 102
+  },
+  "メガガブリアス": {
+    "hp": 108,
+    "attack": 170,
+    "defense": 115,
+    "sp_attack": 120,
+    "sp_defense": 95,
+    "speed": 92
+  },
+  "ゴンベ": {
+    "hp": 135,
+    "attack": 85,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 85,
+    "speed": 5
+  },
+  "リオル": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 40,
+    "sp_attack": 35,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "ルカリオ": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 70,
+    "sp_attack": 115,
+    "sp_defense": 70,
+    "speed": 90
+  },
+  "メガルカリオ": {
+    "hp": 70,
+    "attack": 145,
+    "defense": 88,
+    "sp_attack": 140,
+    "sp_defense": 70,
+    "speed": 112
+  },
+  "メガルカリオZ": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 164,
+    "sp_defense": 70,
+    "speed": 151
+  },
+  "メガルカリオゼット": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 164,
+    "sp_defense": 70,
+    "speed": 151
+  },
+  "ヒポポタス": {
+    "hp": 68,
+    "attack": 72,
+    "defense": 78,
+    "sp_attack": 38,
+    "sp_defense": 42,
+    "speed": 32
+  },
+  "カバルドン": {
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "sp_attack": 68,
+    "sp_defense": 72,
+    "speed": 47
+  },
+  "スコルピ": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 90,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 65
+  },
+  "ドラピオン": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "sp_attack": 60,
+    "sp_defense": 75,
+    "speed": 95
+  },
+  "グレッグル": {
+    "hp": 48,
+    "attack": 61,
+    "defense": 40,
+    "sp_attack": 61,
+    "sp_defense": 40,
+    "speed": 50
+  },
+  "ドクロッグ": {
+    "hp": 83,
+    "attack": 106,
+    "defense": 65,
+    "sp_attack": 86,
+    "sp_defense": 65,
+    "speed": 85
+  },
+  "マスキッパ": {
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "sp_attack": 90,
+    "sp_defense": 72,
+    "speed": 46
+  },
+  "ケイコウオ": {
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "sp_attack": 49,
+    "sp_defense": 61,
+    "speed": 66
+  },
+  "ネオラント": {
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "sp_attack": 69,
+    "sp_defense": 86,
+    "speed": 91
+  },
+  "タマンタ": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 50,
+    "sp_attack": 60,
+    "sp_defense": 120,
+    "speed": 50
+  },
+  "ユキカブリ": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 50,
+    "sp_attack": 62,
+    "sp_defense": 60,
+    "speed": 40
+  },
+  "ユキノオー": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 75,
+    "sp_attack": 92,
+    "sp_defense": 85,
+    "speed": 60
+  },
+  "メガユキノオー": {
+    "hp": 90,
+    "attack": 132,
+    "defense": 105,
+    "sp_attack": 132,
+    "sp_defense": 105,
+    "speed": 30
+  },
+  "マニューラ": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 65,
+    "sp_attack": 45,
+    "sp_defense": 85,
+    "speed": 125
+  },
+  "ジバコイル": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "sp_attack": 130,
+    "sp_defense": 90,
+    "speed": 60
+  },
+  "ベロベルト": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "sp_attack": 80,
+    "sp_defense": 95,
+    "speed": 50
+  },
+  "ドサイドン": {
+    "hp": 115,
+    "attack": 140,
+    "defense": 130,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 40
+  },
+  "モジャンボ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 125,
+    "sp_attack": 110,
+    "sp_defense": 50,
+    "speed": 50
+  },
+  "エレキブル": {
+    "hp": 75,
+    "attack": 123,
+    "defense": 67,
+    "sp_attack": 95,
+    "sp_defense": 85,
+    "speed": 95
+  },
+  "ブーバーン": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 67,
+    "sp_attack": 125,
+    "sp_defense": 95,
+    "speed": 83
+  },
+  "トゲキッス": {
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "sp_attack": 120,
+    "sp_defense": 115,
+    "speed": 80
+  },
+  "メガヤンマ": {
+    "hp": 86,
+    "attack": 76,
+    "defense": 86,
+    "sp_attack": 116,
+    "sp_defense": 56,
+    "speed": 95
+  },
+  "リーフィア": {
+    "hp": 65,
+    "attack": 110,
+    "defense": 130,
+    "sp_attack": 60,
+    "sp_defense": 65,
+    "speed": 95
+  },
+  "グレイシア": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "sp_attack": 130,
+    "sp_defense": 95,
+    "speed": 65
+  },
+  "グライオン": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 125,
+    "sp_attack": 45,
+    "sp_defense": 75,
+    "speed": 95
+  },
+  "マンムー": {
+    "hp": 110,
+    "attack": 130,
+    "defense": 80,
+    "sp_attack": 70,
+    "sp_defense": 60,
+    "speed": 80
+  },
+  "ポリゴンＺ": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "sp_attack": 135,
+    "sp_defense": 75,
+    "speed": 90
+  },
+  "ポリゴンゼット": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "sp_attack": 135,
+    "sp_defense": 75,
+    "speed": 90
+  },
+  "エルレイド": {
+    "hp": 68,
+    "attack": 125,
+    "defense": 65,
+    "sp_attack": 65,
+    "sp_defense": 115,
+    "speed": 80
+  },
+  "メガエルレイド": {
+    "hp": 68,
+    "attack": 165,
+    "defense": 95,
+    "sp_attack": 65,
+    "sp_defense": 115,
+    "speed": 110
+  },
+  "ダイノーズ": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 145,
+    "sp_attack": 75,
+    "sp_defense": 150,
+    "speed": 40
+  },
+  "ヨノワール": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 135,
+    "sp_attack": 65,
+    "sp_defense": 135,
+    "speed": 45
+  },
+  "ユキメノコ": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 70,
+    "sp_attack": 80,
+    "sp_defense": 70,
+    "speed": 110
+  },
+  "メガユキメノコ": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 70,
+    "sp_attack": 140,
+    "sp_defense": 100,
+    "speed": 120
+  },
+  "ロトムのすがた": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "sp_attack": 95,
+    "sp_defense": 77,
+    "speed": 91
+  },
+  "ロトム": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "sp_attack": 95,
+    "sp_defense": 77,
+    "speed": 91
+  },
+  "ヒートロトム": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "sp_attack": 105,
+    "sp_defense": 107,
+    "speed": 86
+  },
+  "ウォッシュロトム": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "sp_attack": 105,
+    "sp_defense": 107,
+    "speed": 86
+  },
+  "フロストロトム": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "sp_attack": 105,
+    "sp_defense": 107,
+    "speed": 86
+  },
+  "スピンロトム": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "sp_attack": 105,
+    "sp_defense": 107,
+    "speed": 86
+  },
+  "カットロトム": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "sp_attack": 105,
+    "sp_defense": 107,
+    "speed": 86
+  },
+  "ユクシー": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 130,
+    "sp_attack": 75,
+    "sp_defense": 130,
+    "speed": 95
+  },
+  "エムリット": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 105,
+    "sp_attack": 105,
+    "sp_defense": 105,
+    "speed": 80
+  },
+  "アグノム": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "sp_attack": 125,
+    "sp_defense": 70,
+    "speed": 115
+  },
+  "ディアルガ": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "sp_attack": 150,
+    "sp_defense": 100,
+    "speed": 90
+  },
+  "オリジンフォルム": {
+    "hp": 150,
+    "attack": 120,
+    "defense": 100,
+    "sp_attack": 120,
+    "sp_defense": 100,
+    "speed": 90
+  },
+  "パルキア": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "sp_attack": 150,
+    "sp_defense": 120,
+    "speed": 100
+  },
+  "ヒードラン": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "sp_attack": 130,
+    "sp_defense": 106,
+    "speed": 77
+  },
+  "メガヒードラン": {
+    "hp": 91,
+    "attack": 120,
+    "defense": 106,
+    "sp_attack": 175,
+    "sp_defense": 141,
+    "speed": 67
+  },
+  "レジギガス": {
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "sp_attack": 80,
+    "sp_defense": 110,
+    "speed": 100
+  },
+  "アナザーフォルム": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "sp_attack": 100,
+    "sp_defense": 120,
+    "speed": 90
+  },
+  "ギラティナ": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "sp_attack": 100,
+    "sp_defense": 120,
+    "speed": 90
+  },
+  "クレセリア": {
+    "hp": 120,
+    "attack": 70,
+    "defense": 110,
+    "sp_attack": 75,
+    "sp_defense": 120,
+    "speed": 85
+  },
+  "フィオネ": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 80
+  },
+  "マナフィ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "ダークライ": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 90,
+    "speed": 125
+  },
+  "メガダークライ": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 130,
+    "sp_attack": 165,
+    "sp_defense": 130,
+    "speed": 85
+  },
+  "ランドフォルム": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "シェイミ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "スカイフォルム": {
+    "hp": 100,
+    "attack": 103,
+    "defense": 75,
+    "sp_attack": 120,
+    "sp_defense": 75,
+    "speed": 127
+  },
+  "アルセウスのすがた": {
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "sp_attack": 120,
+    "sp_defense": 120,
+    "speed": 120
+  },
+  "アルセウス": {
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "sp_attack": 120,
+    "sp_defense": 120,
+    "speed": 120
+  },
+  "ビクティニ": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 100
+  },
+  "ツタージャ": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 55,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 63
+  },
+  "ジャノビー": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "sp_attack": 60,
+    "sp_defense": 75,
+    "speed": 83
+  },
+  "ジャローダ": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 95,
+    "sp_attack": 75,
+    "sp_defense": 95,
+    "speed": 113
+  },
+  "ポカブ": {
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 45
+  },
+  "チャオブー": {
+    "hp": 90,
+    "attack": 93,
+    "defense": 55,
+    "sp_attack": 70,
+    "sp_defense": 55,
+    "speed": 55
+  },
+  "エンブオー": {
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "sp_attack": 100,
+    "sp_defense": 65,
+    "speed": 65
+  },
+  "メガエンブオー": {
+    "hp": 110,
+    "attack": 148,
+    "defense": 75,
+    "sp_attack": 110,
+    "sp_defense": 110,
+    "speed": 75
+  },
+  "ミジュマル": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 45,
+    "sp_attack": 63,
+    "sp_defense": 45,
+    "speed": 45
+  },
+  "フタチマル": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "sp_attack": 83,
+    "sp_defense": 60,
+    "speed": 60
+  },
+  "ダイケンキ": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "sp_attack": 108,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "ミネズミ": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "sp_attack": 35,
+    "sp_defense": 39,
+    "speed": 42
+  },
+  "ミルホッグ": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "sp_attack": 60,
+    "sp_defense": 69,
+    "speed": 77
+  },
+  "ヨーテリー": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "sp_attack": 25,
+    "sp_defense": 45,
+    "speed": 55
+  },
+  "ハーデリア": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 65,
+    "sp_attack": 35,
+    "sp_defense": 65,
+    "speed": 60
+  },
+  "ムーランド": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 90,
+    "sp_attack": 45,
+    "sp_defense": 90,
+    "speed": 80
+  },
+  "チョロネコ": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 37,
+    "sp_attack": 50,
+    "sp_defense": 37,
+    "speed": 66
+  },
+  "レパルダス": {
+    "hp": 64,
+    "attack": 88,
+    "defense": 50,
+    "sp_attack": 88,
+    "sp_defense": 50,
+    "speed": 106
+  },
+  "ヤナップ": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "sp_attack": 53,
+    "sp_defense": 48,
+    "speed": 64
+  },
+  "ヤナッキー": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "sp_attack": 98,
+    "sp_defense": 63,
+    "speed": 101
+  },
+  "バオップ": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "sp_attack": 53,
+    "sp_defense": 48,
+    "speed": 64
+  },
+  "バオッキー": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "sp_attack": 98,
+    "sp_defense": 63,
+    "speed": 101
+  },
+  "ヒヤップ": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "sp_attack": 53,
+    "sp_defense": 48,
+    "speed": 64
+  },
+  "ヒヤッキー": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "sp_attack": 98,
+    "sp_defense": 63,
+    "speed": 101
+  },
+  "ムンナ": {
+    "hp": 76,
+    "attack": 25,
+    "defense": 45,
+    "sp_attack": 67,
+    "sp_defense": 55,
+    "speed": 24
+  },
+  "ムシャーナ": {
+    "hp": 116,
+    "attack": 55,
+    "defense": 85,
+    "sp_attack": 107,
+    "sp_defense": 95,
+    "speed": 29
+  },
+  "マメパト": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "sp_attack": 36,
+    "sp_defense": 30,
+    "speed": 43
+  },
+  "ハトーボー": {
+    "hp": 62,
+    "attack": 77,
+    "defense": 62,
+    "sp_attack": 50,
+    "sp_defense": 42,
+    "speed": 65
+  },
+  "オスのすがた": {
+    "hp": 110,
+    "attack": 100,
+    "defense": 75,
+    "sp_attack": 59,
+    "sp_defense": 80,
+    "speed": 65
+  },
+  "オス": {
+    "hp": 110,
+    "attack": 100,
+    "defense": 75,
+    "sp_attack": 59,
+    "sp_defense": 80,
+    "speed": 65
+  },
+  "ケンホロウ": {
+    "hp": 80,
+    "attack": 115,
+    "defense": 80,
+    "sp_attack": 65,
+    "sp_defense": 55,
+    "speed": 93
+  },
+  "シママ": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "sp_attack": 50,
+    "sp_defense": 32,
+    "speed": 76
+  },
+  "ゼブライカ": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 63,
+    "sp_attack": 80,
+    "sp_defense": 63,
+    "speed": 116
+  },
+  "ダンゴロ": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 85,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 15
+  },
+  "ガントル": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "sp_attack": 50,
+    "sp_defense": 40,
+    "speed": 20
+  },
+  "ギガイアス": {
+    "hp": 85,
+    "attack": 135,
+    "defense": 130,
+    "sp_attack": 60,
+    "sp_defense": 80,
+    "speed": 25
+  },
+  "コロモリ": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 43,
+    "sp_attack": 55,
+    "sp_defense": 43,
+    "speed": 72
+  },
+  "ココロモリ": {
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "sp_attack": 77,
+    "sp_defense": 55,
+    "speed": 114
+  },
+  "モグリュー": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "sp_attack": 30,
+    "sp_defense": 45,
+    "speed": 68
+  },
+  "ドリュウズ": {
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "sp_attack": 50,
+    "sp_defense": 65,
+    "speed": 88
+  },
+  "メガドリュウズ": {
+    "hp": 110,
+    "attack": 165,
+    "defense": 100,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 103
+  },
+  "タブンネ": {
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "sp_attack": 60,
+    "sp_defense": 86,
+    "speed": 50
+  },
+  "メガタブンネ": {
+    "hp": 103,
+    "attack": 60,
+    "defense": 126,
+    "sp_attack": 80,
+    "sp_defense": 126,
+    "speed": 50
+  },
+  "ドッコラー": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 55,
+    "sp_attack": 25,
+    "sp_defense": 35,
+    "speed": 35
+  },
+  "ドテッコツ": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 85,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 40
+  },
+  "ローブシン": {
+    "hp": 105,
+    "attack": 140,
+    "defense": 95,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 45
+  },
+  "オタマロ": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "sp_attack": 50,
+    "sp_defense": 40,
+    "speed": 64
+  },
+  "ガマガル": {
+    "hp": 75,
+    "attack": 65,
+    "defense": 55,
+    "sp_attack": 65,
+    "sp_defense": 55,
+    "speed": 69
+  },
+  "ガマゲロゲ": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 74
+  },
+  "ナゲキ": {
+    "hp": 120,
+    "attack": 100,
+    "defense": 85,
+    "sp_attack": 30,
+    "sp_defense": 85,
+    "speed": 45
+  },
+  "ダゲキ": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 75,
+    "sp_attack": 30,
+    "sp_defense": 75,
+    "speed": 85
+  },
+  "クルミル": {
+    "hp": 45,
+    "attack": 53,
+    "defense": 70,
+    "sp_attack": 40,
+    "sp_defense": 60,
+    "speed": 42
+  },
+  "クルマユ": {
+    "hp": 55,
+    "attack": 63,
+    "defense": 90,
+    "sp_attack": 50,
+    "sp_defense": 80,
+    "speed": 42
+  },
+  "ハハコモリ": {
+    "hp": 75,
+    "attack": 103,
+    "defense": 80,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 92
+  },
+  "フシデ": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 59,
+    "sp_attack": 30,
+    "sp_defense": 39,
+    "speed": 57
+  },
+  "ホイーガ": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 99,
+    "sp_attack": 40,
+    "sp_defense": 79,
+    "speed": 47
+  },
+  "ペンドラー": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 89,
+    "sp_attack": 55,
+    "sp_defense": 69,
+    "speed": 112
+  },
+  "メガペンドラー": {
+    "hp": 60,
+    "attack": 140,
+    "defense": 149,
+    "sp_attack": 75,
+    "sp_defense": 99,
+    "speed": 62
+  },
+  "モンメン": {
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "sp_attack": 37,
+    "sp_defense": 50,
+    "speed": 66
+  },
+  "エルフーン": {
+    "hp": 60,
+    "attack": 67,
+    "defense": 85,
+    "sp_attack": 77,
+    "sp_defense": 75,
+    "speed": 116
+  },
+  "チュリネ": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 50,
+    "sp_attack": 70,
+    "sp_defense": 50,
+    "speed": 30
+  },
+  "ドレディア": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 75,
+    "sp_attack": 110,
+    "sp_defense": 75,
+    "speed": 90
+  },
+  "あかすじのすがた": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "あかすじ": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "バスラオ": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "あおすじのすがた": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "あおすじ": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "しろすじのすがた": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "しろすじ": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 55,
+    "speed": 98
+  },
+  "メグロコ": {
+    "hp": 50,
+    "attack": 72,
+    "defense": 35,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 65
+  },
+  "ワルビル": {
+    "hp": 60,
+    "attack": 82,
+    "defense": 45,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 74
+  },
+  "ワルビアル": {
+    "hp": 95,
+    "attack": 117,
+    "defense": 80,
+    "sp_attack": 65,
+    "sp_defense": 70,
+    "speed": 92
+  },
+  "ダルマッカ": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "sp_attack": 15,
+    "sp_defense": 45,
+    "speed": 50
+  },
+  "ノーマルモード": {
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 95
+  },
+  "ヒヒダルマ": {
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 95
+  },
+  "ダルマモード": {
+    "hp": 105,
+    "attack": 30,
+    "defense": 105,
+    "sp_attack": 140,
+    "sp_defense": 105,
+    "speed": 55
+  },
+  "ガラルのすがた・ダルマモード": {
+    "hp": 105,
+    "attack": 160,
+    "defense": 55,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 135
+  },
+  "ガラルのすがたダルマモード": {
+    "hp": 105,
+    "attack": 160,
+    "defense": 55,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 135
+  },
+  "マラカッチ": {
+    "hp": 75,
+    "attack": 86,
+    "defense": 67,
+    "sp_attack": 106,
+    "sp_defense": 67,
+    "speed": 60
+  },
+  "イシズマイ": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 55
+  },
+  "イワパレス": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 125,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 45
+  },
+  "ズルッグ": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 70,
+    "sp_attack": 35,
+    "sp_defense": 70,
+    "speed": 48
+  },
+  "ズルズキン": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 115,
+    "sp_attack": 45,
+    "sp_defense": 115,
+    "speed": 58
+  },
+  "メガズルズキン": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 135,
+    "sp_attack": 55,
+    "sp_defense": 135,
+    "speed": 68
+  },
+  "シンボラー": {
+    "hp": 72,
+    "attack": 58,
+    "defense": 80,
+    "sp_attack": 103,
+    "sp_defense": 80,
+    "speed": 97
+  },
+  "デスマス": {
+    "hp": 38,
+    "attack": 30,
+    "defense": 85,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 30
+  },
+  "デスカーン": {
+    "hp": 58,
+    "attack": 50,
+    "defense": 145,
+    "sp_attack": 95,
+    "sp_defense": 105,
+    "speed": 30
+  },
+  "プロトーガ": {
+    "hp": 54,
+    "attack": 78,
+    "defense": 103,
+    "sp_attack": 53,
+    "sp_defense": 45,
+    "speed": 22
+  },
+  "アバゴーラ": {
+    "hp": 74,
+    "attack": 108,
+    "defense": 133,
+    "sp_attack": 83,
+    "sp_defense": 65,
+    "speed": 32
+  },
+  "アーケン": {
+    "hp": 55,
+    "attack": 112,
+    "defense": 45,
+    "sp_attack": 74,
+    "sp_defense": 45,
+    "speed": 70
+  },
+  "アーケオス": {
+    "hp": 75,
+    "attack": 140,
+    "defense": 65,
+    "sp_attack": 112,
+    "sp_defense": 65,
+    "speed": 110
+  },
+  "ヤブクロン": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "sp_attack": 40,
+    "sp_defense": 62,
+    "speed": 65
+  },
+  "ダストダス": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 82,
+    "sp_attack": 60,
+    "sp_defense": 82,
+    "speed": 75
+  },
+  "ゾロア": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 40,
+    "sp_attack": 80,
+    "sp_defense": 40,
+    "speed": 65
+  },
+  "ゾロアーク": {
+    "hp": 60,
+    "attack": 105,
+    "defense": 60,
+    "sp_attack": 120,
+    "sp_defense": 60,
+    "speed": 105
+  },
+  "チラーミィ": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 75
+  },
+  "チラチーノ": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "sp_attack": 65,
+    "sp_defense": 60,
+    "speed": 115
+  },
+  "ゴチム": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 45
+  },
+  "ゴチミル": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "sp_attack": 75,
+    "sp_defense": 85,
+    "speed": 55
+  },
+  "ゴチルゼル": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 110,
+    "speed": 65
+  },
+  "ユニラン": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 40,
+    "sp_attack": 105,
+    "sp_defense": 50,
+    "speed": 20
+  },
+  "ダブラン": {
+    "hp": 65,
+    "attack": 40,
+    "defense": 50,
+    "sp_attack": 125,
+    "sp_defense": 60,
+    "speed": 30
+  },
+  "ランクルス": {
+    "hp": 110,
+    "attack": 65,
+    "defense": 75,
+    "sp_attack": 125,
+    "sp_defense": 85,
+    "speed": 30
+  },
+  "コアルヒー": {
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "sp_attack": 44,
+    "sp_defense": 50,
+    "speed": 55
+  },
+  "スワンナ": {
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "sp_attack": 87,
+    "sp_defense": 63,
+    "speed": 98
+  },
+  "バニプッチ": {
+    "hp": 36,
+    "attack": 50,
+    "defense": 50,
+    "sp_attack": 65,
+    "sp_defense": 60,
+    "speed": 44
+  },
+  "バニリッチ": {
+    "hp": 51,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 75,
+    "speed": 59
+  },
+  "バイバニラ": {
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "sp_attack": 110,
+    "sp_defense": 95,
+    "speed": 79
+  },
+  "はるのすがた": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 95
+  },
+  "はる": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 95
+  },
+  "シキジカ": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 75
+  },
+  "メブキジカ": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 95
+  },
+  "エモンガ": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 60,
+    "sp_attack": 75,
+    "sp_defense": 60,
+    "speed": 103
+  },
+  "カブルモ": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "sp_attack": 40,
+    "sp_defense": 45,
+    "speed": 60
+  },
+  "シュバルゴ": {
+    "hp": 70,
+    "attack": 135,
+    "defense": 105,
+    "sp_attack": 60,
+    "sp_defense": 105,
+    "speed": 20
+  },
+  "タマゲタケ": {
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "sp_attack": 55,
+    "sp_defense": 55,
+    "speed": 15
+  },
+  "モロバレル": {
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "sp_attack": 85,
+    "sp_defense": 80,
+    "speed": 30
+  },
+  "プルリル": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 50,
+    "sp_attack": 65,
+    "sp_defense": 85,
+    "speed": 40
+  },
+  "ブルンゲル": {
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "sp_attack": 85,
+    "sp_defense": 105,
+    "speed": 60
+  },
+  "ママンボウ": {
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "sp_attack": 40,
+    "sp_defense": 45,
+    "speed": 65
+  },
+  "バチュル": {
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "sp_attack": 57,
+    "sp_defense": 50,
+    "speed": 65
+  },
+  "デンチュラ": {
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "sp_attack": 97,
+    "sp_defense": 60,
+    "speed": 108
+  },
+  "テッシード": {
+    "hp": 44,
+    "attack": 50,
+    "defense": 91,
+    "sp_attack": 24,
+    "sp_defense": 86,
+    "speed": 10
+  },
+  "ナットレイ": {
+    "hp": 74,
+    "attack": 94,
+    "defense": 131,
+    "sp_attack": 54,
+    "sp_defense": 116,
+    "speed": 20
+  },
+  "ギアル": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 70,
+    "sp_attack": 45,
+    "sp_defense": 60,
+    "speed": 30
+  },
+  "ギギアル": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 95,
+    "sp_attack": 70,
+    "sp_defense": 85,
+    "speed": 50
+  },
+  "ギギギアル": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "sp_attack": 70,
+    "sp_defense": 85,
+    "speed": 90
+  },
+  "シビシラス": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "sp_attack": 45,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "シビビール": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "sp_attack": 75,
+    "sp_defense": 70,
+    "speed": 40
+  },
+  "シビルドン": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 80,
+    "sp_attack": 105,
+    "sp_defense": 80,
+    "speed": 50
+  },
+  "メガシビルドン": {
+    "hp": 85,
+    "attack": 145,
+    "defense": 80,
+    "sp_attack": 135,
+    "sp_defense": 90,
+    "speed": 80
+  },
+  "リグレー": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "sp_attack": 85,
+    "sp_defense": 55,
+    "speed": 30
+  },
+  "オーベム": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "sp_attack": 125,
+    "sp_defense": 95,
+    "speed": 40
+  },
+  "ヒトモシ": {
+    "hp": 50,
+    "attack": 30,
+    "defense": 55,
+    "sp_attack": 65,
+    "sp_defense": 55,
+    "speed": 20
+  },
+  "ランプラー": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "sp_attack": 95,
+    "sp_defense": 60,
+    "speed": 55
+  },
+  "シャンデラ": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 90,
+    "sp_attack": 145,
+    "sp_defense": 90,
+    "speed": 80
+  },
+  "メガシャンデラ": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 110,
+    "sp_attack": 175,
+    "sp_defense": 110,
+    "speed": 90
+  },
+  "キバゴ": {
+    "hp": 46,
+    "attack": 87,
+    "defense": 60,
+    "sp_attack": 30,
+    "sp_defense": 40,
+    "speed": 57
+  },
+  "オノンド": {
+    "hp": 66,
+    "attack": 117,
+    "defense": 70,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 67
+  },
+  "オノノクス": {
+    "hp": 76,
+    "attack": 147,
+    "defense": 90,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 97
+  },
+  "クマシュン": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 40,
+    "sp_attack": 60,
+    "sp_defense": 40,
+    "speed": 40
+  },
+  "ツンベアー": {
+    "hp": 95,
+    "attack": 130,
+    "defense": 80,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 50
+  },
+  "フリージオ": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 50,
+    "sp_attack": 95,
+    "sp_defense": 135,
+    "speed": 105
+  },
+  "チョボマキ": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "sp_attack": 40,
+    "sp_defense": 65,
+    "speed": 25
+  },
+  "アギルダー": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "sp_attack": 100,
+    "sp_defense": 60,
+    "speed": 145
+  },
+  "マッギョ": {
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "sp_attack": 81,
+    "sp_defense": 99,
+    "speed": 32
+  },
+  "コジョフー": {
+    "hp": 45,
+    "attack": 85,
+    "defense": 50,
+    "sp_attack": 55,
+    "sp_defense": 50,
+    "speed": 65
+  },
+  "コジョンド": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 60,
+    "sp_attack": 95,
+    "sp_defense": 60,
+    "speed": 105
+  },
+  "クリムガン": {
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "sp_attack": 60,
+    "sp_defense": 90,
+    "speed": 48
+  },
+  "ゴビット": {
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "sp_attack": 35,
+    "sp_defense": 50,
+    "speed": 35
+  },
+  "ゴルーグ": {
+    "hp": 89,
+    "attack": 124,
+    "defense": 80,
+    "sp_attack": 55,
+    "sp_defense": 80,
+    "speed": 55
+  },
+  "メガゴルーグ": {
+    "hp": 89,
+    "attack": 159,
+    "defense": 105,
+    "sp_attack": 70,
+    "sp_defense": 105,
+    "speed": 55
+  },
+  "コマタナ": {
+    "hp": 45,
+    "attack": 85,
+    "defense": 70,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "キリキザン": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "バッフロン": {
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "sp_attack": 40,
+    "sp_defense": 95,
+    "speed": 55
+  },
+  "ワシボン": {
+    "hp": 70,
+    "attack": 83,
+    "defense": 50,
+    "sp_attack": 37,
+    "sp_defense": 50,
+    "speed": 60
+  },
+  "ウォーグル": {
+    "hp": 100,
+    "attack": 123,
+    "defense": 75,
+    "sp_attack": 57,
+    "sp_defense": 75,
+    "speed": 80
+  },
+  "バルチャイ": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 75,
+    "sp_attack": 45,
+    "sp_defense": 65,
+    "speed": 60
+  },
+  "バルジーナ": {
+    "hp": 110,
+    "attack": 65,
+    "defense": 105,
+    "sp_attack": 55,
+    "sp_defense": 95,
+    "speed": 80
+  },
+  "クイタラン": {
+    "hp": 85,
+    "attack": 97,
+    "defense": 66,
+    "sp_attack": 105,
+    "sp_defense": 66,
+    "speed": 65
+  },
+  "アイアント": {
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "sp_attack": 48,
+    "sp_defense": 48,
+    "speed": 109
+  },
+  "モノズ": {
+    "hp": 52,
+    "attack": 65,
+    "defense": 50,
+    "sp_attack": 45,
+    "sp_defense": 50,
+    "speed": 38
+  },
+  "ジヘッド": {
+    "hp": 72,
+    "attack": 85,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 70,
+    "speed": 58
+  },
+  "サザンドラ": {
+    "hp": 92,
+    "attack": 105,
+    "defense": 90,
+    "sp_attack": 125,
+    "sp_defense": 90,
+    "speed": 98
+  },
+  "メラルバ": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 55,
+    "sp_attack": 50,
+    "sp_defense": 55,
+    "speed": 60
+  },
+  "ウルガモス": {
+    "hp": 85,
+    "attack": 60,
+    "defense": 65,
+    "sp_attack": 135,
+    "sp_defense": 105,
+    "speed": 100
+  },
+  "コバルオン": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 129,
+    "sp_attack": 90,
+    "sp_defense": 72,
+    "speed": 108
+  },
+  "テラキオン": {
+    "hp": 91,
+    "attack": 129,
+    "defense": 90,
+    "sp_attack": 72,
+    "sp_defense": 90,
+    "speed": 108
+  },
+  "ビリジオン": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 72,
+    "sp_attack": 90,
+    "sp_defense": 129,
+    "speed": 108
+  },
+  "けしんフォルム": {
+    "hp": 74,
+    "attack": 115,
+    "defense": 70,
+    "sp_attack": 135,
+    "sp_defense": 80,
+    "speed": 106
+  },
+  "トルネロス": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "sp_attack": 125,
+    "sp_defense": 80,
+    "speed": 111
+  },
+  "れいじゅうフォルム": {
+    "hp": 74,
+    "attack": 115,
+    "defense": 110,
+    "sp_attack": 135,
+    "sp_defense": 100,
+    "speed": 46
+  },
+  "ボルトロス": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "sp_attack": 125,
+    "sp_defense": 80,
+    "speed": 111
+  },
+  "レシラム": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 100,
+    "sp_attack": 150,
+    "sp_defense": 120,
+    "speed": 90
+  },
+  "ゼクロム": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 120,
+    "sp_attack": 120,
+    "sp_defense": 100,
+    "speed": 90
+  },
+  "ランドロス": {
+    "hp": 89,
+    "attack": 125,
+    "defense": 90,
+    "sp_attack": 115,
+    "sp_defense": 80,
+    "speed": 101
+  },
+  "キュレム": {
+    "hp": 125,
+    "attack": 130,
+    "defense": 90,
+    "sp_attack": 130,
+    "sp_defense": 90,
+    "speed": 95
+  },
+  "ブラックキュレム": {
+    "hp": 125,
+    "attack": 170,
+    "defense": 100,
+    "sp_attack": 120,
+    "sp_defense": 90,
+    "speed": 95
+  },
+  "ホワイトキュレム": {
+    "hp": 125,
+    "attack": 120,
+    "defense": 90,
+    "sp_attack": 170,
+    "sp_defense": 100,
+    "speed": 95
+  },
+  "いつものすがた": {
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "sp_attack": 129,
+    "sp_defense": 90,
+    "speed": 108
+  },
+  "いつも": {
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "sp_attack": 129,
+    "sp_defense": 90,
+    "speed": 108
+  },
+  "ケルディオ": {
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "sp_attack": 129,
+    "sp_defense": 90,
+    "speed": 108
+  },
+  "かくごのすがた": {
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "sp_attack": 129,
+    "sp_defense": 90,
+    "speed": 108
+  },
+  "かくご": {
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "sp_attack": 129,
+    "sp_defense": 90,
+    "speed": 108
+  },
+  "ボイスフォルム": {
+    "hp": 100,
+    "attack": 77,
+    "defense": 77,
+    "sp_attack": 128,
+    "sp_defense": 128,
+    "speed": 90
+  },
+  "メロエッタ": {
+    "hp": 100,
+    "attack": 77,
+    "defense": 77,
+    "sp_attack": 128,
+    "sp_defense": 128,
+    "speed": 90
+  },
+  "ステップフォルム": {
+    "hp": 100,
+    "attack": 128,
+    "defense": 90,
+    "sp_attack": 77,
+    "sp_defense": 77,
+    "speed": 128
+  },
+  "ゲノセクトのすがた": {
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "sp_attack": 120,
+    "sp_defense": 95,
+    "speed": 99
+  },
+  "ゲノセクト": {
+    "hp": 71,
+    "attack": 120,
+    "defense": 95,
+    "sp_attack": 120,
+    "sp_defense": 95,
+    "speed": 99
+  },
+  "ハリマロン": {
+    "hp": 56,
+    "attack": 61,
+    "defense": 65,
+    "sp_attack": 48,
+    "sp_defense": 45,
+    "speed": 38
+  },
+  "ハリボーグ": {
+    "hp": 61,
+    "attack": 78,
+    "defense": 95,
+    "sp_attack": 56,
+    "sp_defense": 58,
+    "speed": 57
+  },
+  "ブリガロン": {
+    "hp": 88,
+    "attack": 107,
+    "defense": 122,
+    "sp_attack": 74,
+    "sp_defense": 75,
+    "speed": 64
+  },
+  "メガブリガロン": {
+    "hp": 88,
+    "attack": 137,
+    "defense": 172,
+    "sp_attack": 74,
+    "sp_defense": 115,
+    "speed": 44
+  },
+  "フォッコ": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 62,
+    "sp_defense": 60,
+    "speed": 60
+  },
+  "テールナー": {
+    "hp": 59,
+    "attack": 59,
+    "defense": 58,
+    "sp_attack": 90,
+    "sp_defense": 70,
+    "speed": 73
+  },
+  "マフォクシー": {
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "sp_attack": 114,
+    "sp_defense": 100,
+    "speed": 104
+  },
+  "メガマフォクシー": {
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "sp_attack": 159,
+    "sp_defense": 125,
+    "speed": 134
+  },
+  "ケロマツ": {
+    "hp": 41,
+    "attack": 56,
+    "defense": 40,
+    "sp_attack": 62,
+    "sp_defense": 44,
+    "speed": 71
+  },
+  "ゲコガシラ": {
+    "hp": 54,
+    "attack": 63,
+    "defense": 52,
+    "sp_attack": 83,
+    "sp_defense": 56,
+    "speed": 97
+  },
+  "ゲッコウガ": {
+    "hp": 72,
+    "attack": 95,
+    "defense": 67,
+    "sp_attack": 103,
+    "sp_defense": 71,
+    "speed": 122
+  },
+  "サトシゲッコウガ": {
+    "hp": 72,
+    "attack": 145,
+    "defense": 67,
+    "sp_attack": 153,
+    "sp_defense": 71,
+    "speed": 132
+  },
+  "メガゲッコウガ": {
+    "hp": 72,
+    "attack": 125,
+    "defense": 77,
+    "sp_attack": 133,
+    "sp_defense": 81,
+    "speed": 142
+  },
+  "ホルビー": {
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "sp_attack": 32,
+    "sp_defense": 36,
+    "speed": 57
+  },
+  "ホルード": {
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "sp_attack": 50,
+    "sp_defense": 77,
+    "speed": 78
+  },
+  "ヤヤコマ": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "sp_attack": 40,
+    "sp_defense": 38,
+    "speed": 62
+  },
+  "ヒノヤコマ": {
+    "hp": 62,
+    "attack": 73,
+    "defense": 55,
+    "sp_attack": 56,
+    "sp_defense": 52,
+    "speed": 84
+  },
+  "ファイアロー": {
+    "hp": 78,
+    "attack": 81,
+    "defense": 71,
+    "sp_attack": 74,
+    "sp_defense": 69,
+    "speed": 126
+  },
+  "コフキムシ": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "sp_attack": 27,
+    "sp_defense": 25,
+    "speed": 35
+  },
+  "コフーライ": {
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "sp_attack": 27,
+    "sp_defense": 30,
+    "speed": 29
+  },
+  "ひょうせつのもよう": {
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "sp_attack": 90,
+    "sp_defense": 50,
+    "speed": 89
+  },
+  "ビビヨン": {
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "sp_attack": 90,
+    "sp_defense": 50,
+    "speed": 89
+  },
+  "シシコ": {
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "sp_attack": 73,
+    "sp_defense": 54,
+    "speed": 72
+  },
+  "カエンジシ": {
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "sp_attack": 109,
+    "sp_defense": 66,
+    "speed": 106
+  },
+  "メガカエンジシ": {
+    "hp": 86,
+    "attack": 88,
+    "defense": 92,
+    "sp_attack": 129,
+    "sp_defense": 86,
+    "speed": 126
+  },
+  "あかいはな": {
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "sp_attack": 112,
+    "sp_defense": 154,
+    "speed": 75
+  },
+  "フラベベ": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 39,
+    "sp_attack": 61,
+    "sp_defense": 79,
+    "speed": 42
+  },
+  "フラエッテ": {
+    "hp": 54,
+    "attack": 45,
+    "defense": 47,
+    "sp_attack": 75,
+    "sp_defense": 98,
+    "speed": 52
+  },
+  "えいえんのはな": {
+    "hp": 74,
+    "attack": 65,
+    "defense": 67,
+    "sp_attack": 125,
+    "sp_defense": 128,
+    "speed": 92
+  },
+  "メガフラエッテ": {
+    "hp": 74,
+    "attack": 85,
+    "defense": 87,
+    "sp_attack": 155,
+    "sp_defense": 148,
+    "speed": 102
+  },
+  "フラージェス": {
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "sp_attack": 112,
+    "sp_defense": 154,
+    "speed": 75
+  },
+  "メェークル": {
+    "hp": 66,
+    "attack": 65,
+    "defense": 48,
+    "sp_attack": 62,
+    "sp_defense": 57,
+    "speed": 52
+  },
+  "ゴーゴート": {
+    "hp": 123,
+    "attack": 100,
+    "defense": 62,
+    "sp_attack": 97,
+    "sp_defense": 81,
+    "speed": 68
+  },
+  "ヤンチャム": {
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "sp_attack": 46,
+    "sp_defense": 48,
+    "speed": 43
+  },
+  "ゴロンダ": {
+    "hp": 95,
+    "attack": 124,
+    "defense": 78,
+    "sp_attack": 69,
+    "sp_defense": 71,
+    "speed": 58
+  },
+  "やせいのすがた": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "sp_attack": 65,
+    "sp_defense": 90,
+    "speed": 102
+  },
+  "やせい": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "sp_attack": 65,
+    "sp_defense": 90,
+    "speed": 102
+  },
+  "トリミアン": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "sp_attack": 65,
+    "sp_defense": 90,
+    "speed": 102
+  },
+  "ニャスパー": {
+    "hp": 62,
+    "attack": 48,
+    "defense": 54,
+    "sp_attack": 63,
+    "sp_defense": 60,
+    "speed": 68
+  },
+  "ニャオニクス": {
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "sp_attack": 83,
+    "sp_defense": 81,
+    "speed": 104
+  },
+  "メスのすがた": {
+    "hp": 115,
+    "attack": 90,
+    "defense": 70,
+    "sp_attack": 59,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "メス": {
+    "hp": 115,
+    "attack": 90,
+    "defense": 70,
+    "sp_attack": 59,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "メガニャオニクス": {
+    "hp": 74,
+    "attack": 48,
+    "defense": 76,
+    "sp_attack": 143,
+    "sp_defense": 101,
+    "speed": 124
+  },
+  "ヒトツキ": {
+    "hp": 45,
+    "attack": 80,
+    "defense": 100,
+    "sp_attack": 35,
+    "sp_defense": 37,
+    "speed": 28
+  },
+  "ニダンギル": {
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "sp_attack": 45,
+    "sp_defense": 49,
+    "speed": 35
+  },
+  "シールドフォルム": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 140,
+    "sp_attack": 50,
+    "sp_defense": 140,
+    "speed": 60
+  },
+  "ギルガルド": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 140,
+    "sp_attack": 50,
+    "sp_defense": 140,
+    "speed": 60
+  },
+  "ブレードフォルム": {
+    "hp": 60,
+    "attack": 140,
+    "defense": 50,
+    "sp_attack": 140,
+    "sp_defense": 50,
+    "speed": 60
+  },
+  "シュシュプ": {
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "sp_attack": 63,
+    "sp_defense": 65,
+    "speed": 23
+  },
+  "フレフワン": {
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "sp_attack": 99,
+    "sp_defense": 89,
+    "speed": 29
+  },
+  "ペロッパフ": {
+    "hp": 62,
+    "attack": 48,
+    "defense": 66,
+    "sp_attack": 59,
+    "sp_defense": 57,
+    "speed": 49
+  },
+  "ペロリーム": {
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 72
+  },
+  "マーイーカ": {
+    "hp": 53,
+    "attack": 54,
+    "defense": 53,
+    "sp_attack": 37,
+    "sp_defense": 46,
+    "speed": 45
+  },
+  "カラマネロ": {
+    "hp": 86,
+    "attack": 92,
+    "defense": 88,
+    "sp_attack": 68,
+    "sp_defense": 75,
+    "speed": 73
+  },
+  "メガカラマネロ": {
+    "hp": 86,
+    "attack": 102,
+    "defense": 88,
+    "sp_attack": 98,
+    "sp_defense": 120,
+    "speed": 88
+  },
+  "カメテテ": {
+    "hp": 42,
+    "attack": 52,
+    "defense": 67,
+    "sp_attack": 39,
+    "sp_defense": 56,
+    "speed": 50
+  },
+  "ガメノデス": {
+    "hp": 72,
+    "attack": 105,
+    "defense": 115,
+    "sp_attack": 54,
+    "sp_defense": 86,
+    "speed": 68
+  },
+  "メガガメノデス": {
+    "hp": 72,
+    "attack": 140,
+    "defense": 130,
+    "sp_attack": 64,
+    "sp_defense": 106,
+    "speed": 88
+  },
+  "クズモー": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 60,
+    "sp_defense": 60,
+    "speed": 30
+  },
+  "ドラミドロ": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 90,
+    "sp_attack": 97,
+    "sp_defense": 123,
+    "speed": 44
+  },
+  "メガドラミドロ": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 105,
+    "sp_attack": 132,
+    "sp_defense": 163,
+    "speed": 44
+  },
+  "ウデッポウ": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "sp_attack": 58,
+    "sp_defense": 63,
+    "speed": 44
+  },
+  "ブロスター": {
+    "hp": 71,
+    "attack": 73,
+    "defense": 88,
+    "sp_attack": 120,
+    "sp_defense": 89,
+    "speed": 59
+  },
+  "エリキテル": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "sp_attack": 61,
+    "sp_defense": 43,
+    "speed": 70
+  },
+  "エレザード": {
+    "hp": 62,
+    "attack": 55,
+    "defense": 52,
+    "sp_attack": 109,
+    "sp_defense": 94,
+    "speed": 109
+  },
+  "チゴラス": {
+    "hp": 58,
+    "attack": 89,
+    "defense": 77,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 48
+  },
+  "ガチゴラス": {
+    "hp": 82,
+    "attack": 121,
+    "defense": 119,
+    "sp_attack": 69,
+    "sp_defense": 59,
+    "speed": 71
+  },
+  "アマルス": {
+    "hp": 77,
+    "attack": 59,
+    "defense": 50,
+    "sp_attack": 67,
+    "sp_defense": 63,
+    "speed": 46
+  },
+  "アマルルガ": {
+    "hp": 123,
+    "attack": 77,
+    "defense": 72,
+    "sp_attack": 99,
+    "sp_defense": 92,
+    "speed": 58
+  },
+  "ニンフィア": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 110,
+    "sp_defense": 130,
+    "speed": 60
+  },
+  "ルチャブル": {
+    "hp": 78,
+    "attack": 92,
+    "defense": 75,
+    "sp_attack": 74,
+    "sp_defense": 63,
+    "speed": 118
+  },
+  "メガルチャブル": {
+    "hp": 78,
+    "attack": 137,
+    "defense": 100,
+    "sp_attack": 74,
+    "sp_defense": 93,
+    "speed": 118
+  },
+  "デデンネ": {
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "sp_attack": 81,
+    "sp_defense": 67,
+    "speed": 101
+  },
+  "メレシー": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 150,
+    "sp_attack": 50,
+    "sp_defense": 150,
+    "speed": 50
+  },
+  "ヌメラ": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "sp_attack": 55,
+    "sp_defense": 75,
+    "speed": 40
+  },
+  "ヌメイル": {
+    "hp": 68,
+    "attack": 75,
+    "defense": 53,
+    "sp_attack": 83,
+    "sp_defense": 113,
+    "speed": 60
+  },
+  "ヌメルゴン": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 110,
+    "sp_defense": 150,
+    "speed": 80
+  },
+  "クレッフィ": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "sp_attack": 80,
+    "sp_defense": 87,
+    "speed": 75
+  },
+  "ボクレー": {
+    "hp": 43,
+    "attack": 70,
+    "defense": 48,
+    "sp_attack": 50,
+    "sp_defense": 60,
+    "speed": 38
+  },
+  "オーロット": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 76,
+    "sp_attack": 65,
+    "sp_defense": 82,
+    "speed": 56
+  },
+  "ちゅうだましゅ": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 122,
+    "sp_attack": 58,
+    "sp_defense": 75,
+    "speed": 84
+  },
+  "バケッチャ": {
+    "hp": 49,
+    "attack": 66,
+    "defense": 70,
+    "sp_attack": 44,
+    "sp_defense": 55,
+    "speed": 51
+  },
+  "こだましゅ": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 122,
+    "sp_attack": 58,
+    "sp_defense": 75,
+    "speed": 99
+  },
+  "おおだましゅ": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 122,
+    "sp_attack": 58,
+    "sp_defense": 75,
+    "speed": 69
+  },
+  "ギガだましゅ": {
+    "hp": 85,
+    "attack": 100,
+    "defense": 122,
+    "sp_attack": 58,
+    "sp_defense": 75,
+    "speed": 54
+  },
+  "パンプジン": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 122,
+    "sp_attack": 58,
+    "sp_defense": 75,
+    "speed": 84
+  },
+  "カチコール": {
+    "hp": 55,
+    "attack": 69,
+    "defense": 85,
+    "sp_attack": 32,
+    "sp_defense": 35,
+    "speed": 28
+  },
+  "クレベース": {
+    "hp": 95,
+    "attack": 117,
+    "defense": 184,
+    "sp_attack": 44,
+    "sp_defense": 46,
+    "speed": 28
+  },
+  "オンバット": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "sp_attack": 45,
+    "sp_defense": 40,
+    "speed": 55
+  },
+  "オンバーン": {
+    "hp": 85,
+    "attack": 70,
+    "defense": 80,
+    "sp_attack": 97,
+    "sp_defense": 80,
+    "speed": 123
+  },
+  "リラックスモード": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "sp_attack": 131,
+    "sp_defense": 98,
+    "speed": 99
+  },
+  "ゼルネアス": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "sp_attack": 131,
+    "sp_defense": 98,
+    "speed": 99
+  },
+  "イベルタル": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "sp_attack": 131,
+    "sp_defense": 98,
+    "speed": 99
+  },
+  "50%フォルム": {
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "sp_attack": 81,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "ジガルデ": {
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "sp_attack": 81,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "ごじゅっぱーせんとフォルム": {
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "sp_attack": 81,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "10%フォルム": {
+    "hp": 54,
+    "attack": 100,
+    "defense": 71,
+    "sp_attack": 61,
+    "sp_defense": 85,
+    "speed": 115
+  },
+  "じゅっぱーせんとフォルム": {
+    "hp": 54,
+    "attack": 100,
+    "defense": 71,
+    "sp_attack": 61,
+    "sp_defense": 85,
+    "speed": 115
+  },
+  "パーフェクトフォルム": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 100,
+    "sp_attack": 135,
+    "sp_defense": 115,
+    "speed": 135
+  },
+  "メガジガルデ": {
+    "hp": 216,
+    "attack": 70,
+    "defense": 91,
+    "sp_attack": 216,
+    "sp_defense": 85,
+    "speed": 100
+  },
+  "ディアンシー": {
+    "hp": 50,
+    "attack": 100,
+    "defense": 150,
+    "sp_attack": 100,
+    "sp_defense": 150,
+    "speed": 50
+  },
+  "メガディアンシー": {
+    "hp": 50,
+    "attack": 160,
+    "defense": 110,
+    "sp_attack": 160,
+    "sp_defense": 110,
+    "speed": 110
+  },
+  "いましめられしフーパ": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "sp_attack": 150,
+    "sp_defense": 130,
+    "speed": 70
+  },
+  "フーパ": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "sp_attack": 150,
+    "sp_defense": 130,
+    "speed": 70
+  },
+  "ときはなたれしフーパ": {
+    "hp": 80,
+    "attack": 160,
+    "defense": 60,
+    "sp_attack": 170,
+    "sp_defense": 130,
+    "speed": 80
+  },
+  "ボルケニオン": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 120,
+    "sp_attack": 130,
+    "sp_defense": 90,
+    "speed": 70
+  },
+  "モクロー": {
+    "hp": 68,
+    "attack": 55,
+    "defense": 55,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 42
+  },
+  "フクスロー": {
+    "hp": 78,
+    "attack": 75,
+    "defense": 75,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 52
+  },
+  "ジュナイパー": {
+    "hp": 78,
+    "attack": 107,
+    "defense": 75,
+    "sp_attack": 100,
+    "sp_defense": 100,
+    "speed": 70
+  },
+  "ニャビー": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "sp_attack": 60,
+    "sp_defense": 40,
+    "speed": 70
+  },
+  "ニャヒート": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 50,
+    "sp_attack": 80,
+    "sp_defense": 50,
+    "speed": 90
+  },
+  "ガオガエン": {
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "sp_attack": 80,
+    "sp_defense": 90,
+    "speed": 60
+  },
+  "アシマリ": {
+    "hp": 50,
+    "attack": 54,
+    "defense": 54,
+    "sp_attack": 66,
+    "sp_defense": 56,
+    "speed": 40
+  },
+  "オシャマリ": {
+    "hp": 60,
+    "attack": 69,
+    "defense": 69,
+    "sp_attack": 91,
+    "sp_defense": 81,
+    "speed": 50
+  },
+  "アシレーヌ": {
+    "hp": 80,
+    "attack": 74,
+    "defense": 74,
+    "sp_attack": 126,
+    "sp_defense": 116,
+    "speed": 60
+  },
+  "ツツケラ": {
+    "hp": 35,
+    "attack": 75,
+    "defense": 30,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 65
+  },
+  "ケララッパ": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 75
+  },
+  "ドデカバシ": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 75,
+    "sp_attack": 75,
+    "sp_defense": 75,
+    "speed": 60
+  },
+  "ヤングース": {
+    "hp": 48,
+    "attack": 70,
+    "defense": 30,
+    "sp_attack": 30,
+    "sp_defense": 30,
+    "speed": 45
+  },
+  "デカグース": {
+    "hp": 88,
+    "attack": 110,
+    "defense": 60,
+    "sp_attack": 55,
+    "sp_defense": 60,
+    "speed": 45
+  },
+  "アゴジムシ": {
+    "hp": 47,
+    "attack": 62,
+    "defense": 45,
+    "sp_attack": 55,
+    "sp_defense": 45,
+    "speed": 46
+  },
+  "デンヂムシ": {
+    "hp": 57,
+    "attack": 82,
+    "defense": 95,
+    "sp_attack": 55,
+    "sp_defense": 75,
+    "speed": 36
+  },
+  "クワガノン": {
+    "hp": 77,
+    "attack": 70,
+    "defense": 90,
+    "sp_attack": 145,
+    "sp_defense": 75,
+    "speed": 43
+  },
+  "マケンカニ": {
+    "hp": 47,
+    "attack": 82,
+    "defense": 57,
+    "sp_attack": 42,
+    "sp_defense": 47,
+    "speed": 63
+  },
+  "ケケンカニ": {
+    "hp": 97,
+    "attack": 132,
+    "defense": 77,
+    "sp_attack": 62,
+    "sp_defense": 67,
+    "speed": 43
+  },
+  "メガケケンカニ": {
+    "hp": 97,
+    "attack": 157,
+    "defense": 122,
+    "sp_attack": 62,
+    "sp_defense": 107,
+    "speed": 33
+  },
+  "めらめらスタイル": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 98,
+    "sp_defense": 70,
+    "speed": 93
+  },
+  "オドリドリ": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 98,
+    "sp_defense": 70,
+    "speed": 93
+  },
+  "ぱちぱちスタイル": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 98,
+    "sp_defense": 70,
+    "speed": 93
+  },
+  "ふらふらスタイル": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 98,
+    "sp_defense": 70,
+    "speed": 93
+  },
+  "まいまいスタイル": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "sp_attack": 98,
+    "sp_defense": 70,
+    "speed": 93
+  },
+  "アブリー": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 55,
+    "sp_defense": 40,
+    "speed": 84
+  },
+  "アブリボン": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 60,
+    "sp_attack": 95,
+    "sp_defense": 70,
+    "speed": 124
+  },
+  "イワンコ": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "sp_attack": 30,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "とくべつなイワンコ": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "sp_attack": 30,
+    "sp_defense": 40,
+    "speed": 60
+  },
+  "まひるのすがた": {
+    "hp": 75,
+    "attack": 115,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 112
+  },
+  "まひる": {
+    "hp": 75,
+    "attack": 115,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 112
+  },
+  "ルガルガン": {
+    "hp": 75,
+    "attack": 115,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 112
+  },
+  "まよなかのすがた": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 75,
+    "sp_attack": 55,
+    "sp_defense": 75,
+    "speed": 82
+  },
+  "まよなか": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 75,
+    "sp_attack": 55,
+    "sp_defense": 75,
+    "speed": 82
+  },
+  "たそがれのすがた": {
+    "hp": 75,
+    "attack": 117,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 110
+  },
+  "たそがれ": {
+    "hp": 75,
+    "attack": 117,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 65,
+    "speed": 110
+  },
+  "たんどくのすがた": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 40
+  },
+  "たんどく": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 40
+  },
+  "ヨワシ": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "sp_attack": 25,
+    "sp_defense": 25,
+    "speed": 40
+  },
+  "むれたすがた": {
+    "hp": 45,
+    "attack": 140,
+    "defense": 130,
+    "sp_attack": 140,
+    "sp_defense": 135,
+    "speed": 30
+  },
+  "ヒドイデ": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "sp_attack": 43,
+    "sp_defense": 52,
+    "speed": 45
+  },
+  "ドヒドイデ": {
+    "hp": 50,
+    "attack": 63,
+    "defense": 152,
+    "sp_attack": 53,
+    "sp_defense": 142,
+    "speed": 35
+  },
+  "ドロバンコ": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 45
+  },
+  "バンバドロ": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 100,
+    "sp_attack": 55,
+    "sp_defense": 85,
+    "speed": 35
+  },
+  "シズクモ": {
+    "hp": 38,
+    "attack": 40,
+    "defense": 52,
+    "sp_attack": 40,
+    "sp_defense": 72,
+    "speed": 27
+  },
+  "オニシズクモ": {
+    "hp": 68,
+    "attack": 70,
+    "defense": 92,
+    "sp_attack": 50,
+    "sp_defense": 132,
+    "speed": 42
+  },
+  "カリキリ": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 35,
+    "sp_attack": 50,
+    "sp_defense": 35,
+    "speed": 35
+  },
+  "ラランテス": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 90,
+    "sp_attack": 80,
+    "sp_defense": 90,
+    "speed": 45
+  },
+  "ネマシュ": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 55,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 15
+  },
+  "マシェード": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 80,
+    "sp_attack": 90,
+    "sp_defense": 100,
+    "speed": 30
+  },
+  "ヤトウモリ": {
+    "hp": 48,
+    "attack": 44,
+    "defense": 40,
+    "sp_attack": 71,
+    "sp_defense": 40,
+    "speed": 77
+  },
+  "エンニュート": {
+    "hp": 68,
+    "attack": 64,
+    "defense": 60,
+    "sp_attack": 111,
+    "sp_defense": 60,
+    "speed": 117
+  },
+  "ヌイコグマ": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 50,
+    "sp_attack": 45,
+    "sp_defense": 50,
+    "speed": 50
+  },
+  "キテルグマ": {
+    "hp": 120,
+    "attack": 125,
+    "defense": 80,
+    "sp_attack": 55,
+    "sp_defense": 60,
+    "speed": 60
+  },
+  "アマカジ": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "sp_attack": 30,
+    "sp_defense": 38,
+    "speed": 32
+  },
+  "アママイコ": {
+    "hp": 52,
+    "attack": 40,
+    "defense": 48,
+    "sp_attack": 40,
+    "sp_defense": 48,
+    "speed": 62
+  },
+  "アマージョ": {
+    "hp": 72,
+    "attack": 120,
+    "defense": 98,
+    "sp_attack": 50,
+    "sp_defense": 98,
+    "speed": 72
+  },
+  "キュワワー": {
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "sp_attack": 82,
+    "sp_defense": 110,
+    "speed": 100
+  },
+  "ヤレユータン": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 80,
+    "sp_attack": 90,
+    "sp_defense": 110,
+    "speed": 60
+  },
+  "ナゲツケサル": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 90,
+    "sp_attack": 40,
+    "sp_defense": 60,
+    "speed": 80
+  },
+  "コソクムシ": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "sp_attack": 20,
+    "sp_defense": 30,
+    "speed": 80
+  },
+  "グソクムシャ": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 140,
+    "sp_attack": 60,
+    "sp_defense": 90,
+    "speed": 40
+  },
+  "メガグソクムシャ": {
+    "hp": 75,
+    "attack": 150,
+    "defense": 175,
+    "sp_attack": 70,
+    "sp_defense": 120,
+    "speed": 40
+  },
+  "スナバァ": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 80,
+    "sp_attack": 70,
+    "sp_defense": 45,
+    "speed": 15
+  },
+  "シロデスナ": {
+    "hp": 85,
+    "attack": 75,
+    "defense": 110,
+    "sp_attack": 100,
+    "sp_defense": 75,
+    "speed": 35
+  },
+  "ナマコブシ": {
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "sp_attack": 30,
+    "sp_defense": 130,
+    "speed": 5
+  },
+  "タイプ：ヌル": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 59
+  },
+  "タイプヌル": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 59
+  },
+  "タイプ:ノーマル": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "シルヴァディ": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "タイプノーマル": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 95,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "りゅうせいのすがた": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 100,
+    "speed": 60
+  },
+  "りゅうせい": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 100,
+    "speed": 60
+  },
+  "メテノ": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 100,
+    "speed": 60
+  },
+  "あかいろのコア": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 60,
+    "sp_attack": 100,
+    "sp_defense": 60,
+    "speed": 120
+  },
+  "ネッコアラ": {
+    "hp": 65,
+    "attack": 115,
+    "defense": 65,
+    "sp_attack": 75,
+    "sp_defense": 95,
+    "speed": 65
+  },
+  "バクガメス": {
+    "hp": 60,
+    "attack": 78,
+    "defense": 135,
+    "sp_attack": 91,
+    "sp_defense": 85,
+    "speed": 36
+  },
+  "トゲデマル": {
+    "hp": 65,
+    "attack": 98,
+    "defense": 63,
+    "sp_attack": 40,
+    "sp_defense": 73,
+    "speed": 96
+  },
+  "ばけたすがた": {
+    "hp": 55,
+    "attack": 90,
+    "defense": 80,
+    "sp_attack": 50,
+    "sp_defense": 105,
+    "speed": 96
+  },
+  "ミミッキュ": {
+    "hp": 55,
+    "attack": 90,
+    "defense": 80,
+    "sp_attack": 50,
+    "sp_defense": 105,
+    "speed": 96
+  },
+  "ハギギシリ": {
+    "hp": 68,
+    "attack": 105,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 92
+  },
+  "ジジーロン": {
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "sp_attack": 135,
+    "sp_defense": 91,
+    "speed": 36
+  },
+  "メガジジーロン": {
+    "hp": 78,
+    "attack": 85,
+    "defense": 110,
+    "sp_attack": 160,
+    "sp_defense": 116,
+    "speed": 36
+  },
+  "ダダリン": {
+    "hp": 70,
+    "attack": 131,
+    "defense": 100,
+    "sp_attack": 86,
+    "sp_defense": 90,
+    "speed": 40
+  },
+  "ジャラコ": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 65,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 45
+  },
+  "ジャランゴ": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 90,
+    "sp_attack": 65,
+    "sp_defense": 70,
+    "speed": 65
+  },
+  "ジャラランガ": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 125,
+    "sp_attack": 100,
+    "sp_defense": 105,
+    "speed": 85
+  },
+  "カプ・コケコ": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 85,
+    "sp_attack": 95,
+    "sp_defense": 75,
+    "speed": 130
+  },
+  "カプコケコ": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 85,
+    "sp_attack": 95,
+    "sp_defense": 75,
+    "speed": 130
+  },
+  "カプ・テテフ": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 75,
+    "sp_attack": 130,
+    "sp_defense": 115,
+    "speed": 95
+  },
+  "カプテテフ": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 75,
+    "sp_attack": 130,
+    "sp_defense": 115,
+    "speed": 95
+  },
+  "カプ・ブルル": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 115,
+    "sp_attack": 85,
+    "sp_defense": 95,
+    "speed": 75
+  },
+  "カプブルル": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 115,
+    "sp_attack": 85,
+    "sp_defense": 95,
+    "speed": 75
+  },
+  "カプ・レヒレ": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 115,
+    "sp_attack": 95,
+    "sp_defense": 130,
+    "speed": 85
+  },
+  "カプレヒレ": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 115,
+    "sp_attack": 95,
+    "sp_defense": 130,
+    "speed": 85
+  },
+  "コスモッグ": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 31,
+    "sp_attack": 29,
+    "sp_defense": 31,
+    "speed": 37
+  },
+  "コスモウム": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 131,
+    "sp_attack": 29,
+    "sp_defense": 131,
+    "speed": 37
+  },
+  "ソルガレオ": {
+    "hp": 137,
+    "attack": 137,
+    "defense": 107,
+    "sp_attack": 113,
+    "sp_defense": 89,
+    "speed": 97
+  },
+  "ルナアーラ": {
+    "hp": 137,
+    "attack": 113,
+    "defense": 89,
+    "sp_attack": 137,
+    "sp_defense": 107,
+    "speed": 97
+  },
+  "ウツロイド": {
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "sp_attack": 127,
+    "sp_defense": 131,
+    "speed": 103
+  },
+  "マッシブーン": {
+    "hp": 107,
+    "attack": 139,
+    "defense": 139,
+    "sp_attack": 53,
+    "sp_defense": 53,
+    "speed": 79
+  },
+  "フェローチェ": {
+    "hp": 71,
+    "attack": 137,
+    "defense": 37,
+    "sp_attack": 137,
+    "sp_defense": 37,
+    "speed": 151
+  },
+  "デンジュモク": {
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "sp_attack": 173,
+    "sp_defense": 71,
+    "speed": 83
+  },
+  "テッカグヤ": {
+    "hp": 97,
+    "attack": 101,
+    "defense": 103,
+    "sp_attack": 107,
+    "sp_defense": 101,
+    "speed": 61
+  },
+  "カミツルギ": {
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "sp_attack": 59,
+    "sp_defense": 31,
+    "speed": 109
+  },
+  "アクジキング": {
+    "hp": 223,
+    "attack": 101,
+    "defense": 53,
+    "sp_attack": 97,
+    "sp_defense": 53,
+    "speed": 43
+  },
+  "ネクロズマ": {
+    "hp": 97,
+    "attack": 107,
+    "defense": 101,
+    "sp_attack": 127,
+    "sp_defense": 89,
+    "speed": 79
+  },
+  "たそがれのたてがみ": {
+    "hp": 97,
+    "attack": 157,
+    "defense": 127,
+    "sp_attack": 113,
+    "sp_defense": 109,
+    "speed": 77
+  },
+  "あかつきのつばさ": {
+    "hp": 97,
+    "attack": 113,
+    "defense": 109,
+    "sp_attack": 157,
+    "sp_defense": 127,
+    "speed": 77
+  },
+  "ウルトラネクロズマ": {
+    "hp": 97,
+    "attack": 167,
+    "defense": 97,
+    "sp_attack": 167,
+    "sp_defense": 97,
+    "speed": 129
+  },
+  "マギアナ": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 115,
+    "sp_attack": 130,
+    "sp_defense": 115,
+    "speed": 65
+  },
+  "マーシャドー": {
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "sp_attack": 90,
+    "sp_defense": 90,
+    "speed": 125
+  },
+  "ベベノム": {
+    "hp": 67,
+    "attack": 73,
+    "defense": 67,
+    "sp_attack": 73,
+    "sp_defense": 67,
+    "speed": 73
+  },
+  "アーゴヨン": {
+    "hp": 73,
+    "attack": 73,
+    "defense": 73,
+    "sp_attack": 127,
+    "sp_defense": 73,
+    "speed": 121
+  },
+  "ツンデツンデ": {
+    "hp": 61,
+    "attack": 131,
+    "defense": 211,
+    "sp_attack": 53,
+    "sp_defense": 101,
+    "speed": 13
+  },
+  "ズガドーン": {
+    "hp": 53,
+    "attack": 127,
+    "defense": 53,
+    "sp_attack": 151,
+    "sp_defense": 79,
+    "speed": 107
+  },
+  "ゼラオラ": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "sp_attack": 102,
+    "sp_defense": 80,
+    "speed": 143
+  },
+  "メガゼラオラ": {
+    "hp": 88,
+    "attack": 157,
+    "defense": 75,
+    "sp_attack": 147,
+    "sp_defense": 80,
+    "speed": 153
+  },
+  "メルタン": {
+    "hp": 46,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 55,
+    "sp_defense": 35,
+    "speed": 34
+  },
+  "メルメタル": {
+    "hp": 135,
+    "attack": 143,
+    "defense": 143,
+    "sp_attack": 80,
+    "sp_defense": 65,
+    "speed": 34
+  },
+  "サルノリ": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 65
+  },
+  "バチンキー": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "sp_attack": 55,
+    "sp_defense": 60,
+    "speed": 80
+  },
+  "ゴリランダー": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 90,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 85
+  },
+  "ヒバニー": {
+    "hp": 50,
+    "attack": 71,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 69
+  },
+  "ラビフット": {
+    "hp": 65,
+    "attack": 86,
+    "defense": 60,
+    "sp_attack": 55,
+    "sp_defense": 60,
+    "speed": 94
+  },
+  "エースバーン": {
+    "hp": 80,
+    "attack": 116,
+    "defense": 75,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 119
+  },
+  "メッソン": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 40,
+    "sp_attack": 70,
+    "sp_defense": 70,
+    "speed": 70
+  },
+  "ジメレオン": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 55,
+    "sp_attack": 95,
+    "sp_defense": 55,
+    "speed": 90
+  },
+  "インテレオン": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "sp_attack": 125,
+    "sp_defense": 65,
+    "speed": 120
+  },
+  "ホシガリス": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 25
+  },
+  "ヨクバリス": {
+    "hp": 120,
+    "attack": 95,
+    "defense": 95,
+    "sp_attack": 55,
+    "sp_defense": 75,
+    "speed": 20
+  },
+  "ココガラ": {
+    "hp": 38,
+    "attack": 47,
+    "defense": 35,
+    "sp_attack": 33,
+    "sp_defense": 35,
+    "speed": 57
+  },
+  "アオガラス": {
+    "hp": 68,
+    "attack": 67,
+    "defense": 55,
+    "sp_attack": 43,
+    "sp_defense": 55,
+    "speed": 77
+  },
+  "アーマーガア": {
+    "hp": 98,
+    "attack": 87,
+    "defense": 105,
+    "sp_attack": 53,
+    "sp_defense": 85,
+    "speed": 67
+  },
+  "サッチムシ": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 20,
+    "sp_attack": 25,
+    "sp_defense": 45,
+    "speed": 45
+  },
+  "レドームシ": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 80,
+    "sp_attack": 50,
+    "sp_defense": 90,
+    "speed": 30
+  },
+  "イオルブ": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 110,
+    "sp_attack": 80,
+    "sp_defense": 120,
+    "speed": 90
+  },
+  "クスネ": {
+    "hp": 40,
+    "attack": 28,
+    "defense": 28,
+    "sp_attack": 47,
+    "sp_defense": 52,
+    "speed": 50
+  },
+  "フォクスライ": {
+    "hp": 70,
+    "attack": 58,
+    "defense": 58,
+    "sp_attack": 87,
+    "sp_defense": 92,
+    "speed": 90
+  },
+  "ヒメンカ": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 60,
+    "speed": 10
+  },
+  "ワタシラガ": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 90,
+    "sp_attack": 80,
+    "sp_defense": 120,
+    "speed": 60
+  },
+  "ウールー": {
+    "hp": 42,
+    "attack": 40,
+    "defense": 55,
+    "sp_attack": 40,
+    "sp_defense": 45,
+    "speed": 48
+  },
+  "バイウールー": {
+    "hp": 72,
+    "attack": 80,
+    "defense": 100,
+    "sp_attack": 60,
+    "sp_defense": 90,
+    "speed": 88
+  },
+  "カムカメ": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "sp_attack": 38,
+    "sp_defense": 38,
+    "speed": 44
+  },
+  "カジリガメ": {
+    "hp": 90,
+    "attack": 115,
+    "defense": 90,
+    "sp_attack": 48,
+    "sp_defense": 68,
+    "speed": 74
+  },
+  "ワンパチ": {
+    "hp": 59,
+    "attack": 45,
+    "defense": 59,
+    "sp_attack": 49,
+    "sp_defense": 59,
+    "speed": 26
+  },
+  "パルスワン": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 60,
+    "sp_attack": 90,
+    "sp_defense": 60,
+    "speed": 121
+  },
+  "タンドン": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 50,
+    "sp_attack": 40,
+    "sp_defense": 50,
+    "speed": 30
+  },
+  "トロッゴン": {
+    "hp": 80,
+    "attack": 60,
+    "defense": 90,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 50
+  },
+  "セキタンザン": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 120,
+    "sp_attack": 80,
+    "sp_defense": 90,
+    "speed": 30
+  },
+  "カジッチュ": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 80,
+    "sp_attack": 40,
+    "sp_defense": 40,
+    "speed": 20
+  },
+  "アップリュー": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "sp_attack": 95,
+    "sp_defense": 60,
+    "speed": 70
+  },
+  "タルップル": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 80,
+    "sp_attack": 100,
+    "sp_defense": 80,
+    "speed": 30
+  },
+  "スナヘビ": {
+    "hp": 52,
+    "attack": 57,
+    "defense": 75,
+    "sp_attack": 35,
+    "sp_defense": 50,
+    "speed": 46
+  },
+  "サダイジャ": {
+    "hp": 72,
+    "attack": 107,
+    "defense": 125,
+    "sp_attack": 65,
+    "sp_defense": 70,
+    "speed": 71
+  },
+  "ウッウ": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 55,
+    "sp_attack": 85,
+    "sp_defense": 95,
+    "speed": 85
+  },
+  "サシカマス": {
+    "hp": 41,
+    "attack": 63,
+    "defense": 40,
+    "sp_attack": 40,
+    "sp_defense": 30,
+    "speed": 66
+  },
+  "カマスジョー": {
+    "hp": 61,
+    "attack": 123,
+    "defense": 60,
+    "sp_attack": 60,
+    "sp_defense": 50,
+    "speed": 136
+  },
+  "エレズン": {
+    "hp": 40,
+    "attack": 38,
+    "defense": 35,
+    "sp_attack": 54,
+    "sp_defense": 35,
+    "speed": 40
+  },
+  "ハイなすがた": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 70,
+    "sp_attack": 114,
+    "sp_defense": 70,
+    "speed": 75
+  },
+  "ストリンダー": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 70,
+    "sp_attack": 114,
+    "sp_defense": 70,
+    "speed": 75
+  },
+  "キョダイマックス": {
+    "hp": 100,
+    "attack": 130,
+    "defense": 100,
+    "sp_attack": 63,
+    "sp_defense": 60,
+    "speed": 97
+  },
+  "ヤクデ": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 45
+  },
+  "マルヤクデ": {
+    "hp": 100,
+    "attack": 115,
+    "defense": 65,
+    "sp_attack": 90,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "タタッコ": {
+    "hp": 50,
+    "attack": 68,
+    "defense": 60,
+    "sp_attack": 50,
+    "sp_defense": 50,
+    "speed": 32
+  },
+  "オトスパス": {
+    "hp": 80,
+    "attack": 118,
+    "defense": 90,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 42
+  },
+  "がんさくフォルム": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 134,
+    "sp_defense": 114,
+    "speed": 70
+  },
+  "ヤバチャ": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 74,
+    "sp_defense": 54,
+    "speed": 50
+  },
+  "ポットデス": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 65,
+    "sp_attack": 134,
+    "sp_defense": 114,
+    "speed": 70
+  },
+  "ミブリム": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 45,
+    "sp_attack": 56,
+    "sp_defense": 53,
+    "speed": 39
+  },
+  "テブリム": {
+    "hp": 57,
+    "attack": 40,
+    "defense": 65,
+    "sp_attack": 86,
+    "sp_defense": 73,
+    "speed": 49
+  },
+  "ブリムオン": {
+    "hp": 57,
+    "attack": 90,
+    "defense": 95,
+    "sp_attack": 136,
+    "sp_defense": 103,
+    "speed": 29
+  },
+  "ベロバー": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 30,
+    "sp_attack": 55,
+    "sp_defense": 40,
+    "speed": 50
+  },
+  "ギモー": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 45,
+    "sp_attack": 75,
+    "sp_defense": 55,
+    "speed": 70
+  },
+  "オーロンゲ": {
+    "hp": 95,
+    "attack": 120,
+    "defense": 65,
+    "sp_attack": 95,
+    "sp_defense": 75,
+    "speed": 60
+  },
+  "タチフサグマ": {
+    "hp": 93,
+    "attack": 90,
+    "defense": 101,
+    "sp_attack": 60,
+    "sp_defense": 82,
+    "speed": 95
+  },
+  "ニャイキング": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 100,
+    "sp_attack": 50,
+    "sp_defense": 60,
+    "speed": 50
+  },
+  "サニゴーン": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 50,
+    "sp_attack": 145,
+    "sp_defense": 130,
+    "speed": 30
+  },
+  "ネギガナイト": {
+    "hp": 62,
+    "attack": 135,
+    "defense": 95,
+    "sp_attack": 68,
+    "sp_defense": 82,
+    "speed": 65
+  },
+  "バリコオル": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 75,
+    "sp_attack": 110,
+    "sp_defense": 100,
+    "speed": 70
+  },
+  "デスバーン": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 145,
+    "sp_attack": 50,
+    "sp_defense": 105,
+    "speed": 30
+  },
+  "マホミル": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 40,
+    "sp_attack": 50,
+    "sp_defense": 61,
+    "speed": 34
+  },
+  "ミルキィバニラ": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "sp_attack": 110,
+    "sp_defense": 121,
+    "speed": 64
+  },
+  "マホイップ": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "sp_attack": 110,
+    "sp_defense": 121,
+    "speed": 64
+  },
+  "タイレーツ": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 100,
+    "sp_attack": 70,
+    "sp_defense": 60,
+    "speed": 75
+  },
+  "メガタイレーツ": {
+    "hp": 65,
+    "attack": 135,
+    "defense": 135,
+    "sp_attack": 75,
+    "sp_defense": 65,
+    "speed": 100
+  },
+  "バチンウニ": {
+    "hp": 48,
+    "attack": 101,
+    "defense": 95,
+    "sp_attack": 91,
+    "sp_defense": 85,
+    "speed": 15
+  },
+  "ユキハミ": {
+    "hp": 30,
+    "attack": 25,
+    "defense": 35,
+    "sp_attack": 45,
+    "sp_defense": 30,
+    "speed": 20
+  },
+  "モスノウ": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 125,
+    "sp_defense": 90,
+    "speed": 65
+  },
+  "イシヘンジン": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 135,
+    "sp_attack": 20,
+    "sp_defense": 20,
+    "speed": 70
+  },
+  "アイスフェイス": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 65,
+    "sp_defense": 90,
+    "speed": 50
+  },
+  "コオリッポ": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 65,
+    "sp_defense": 90,
+    "speed": 50
+  },
+  "ナイスフェイス": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 50,
+    "speed": 130
+  },
+  "イエッサン": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 55,
+    "sp_attack": 105,
+    "sp_defense": 95,
+    "speed": 95
+  },
+  "まんぷくもよう": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 58,
+    "sp_attack": 70,
+    "sp_defense": 58,
+    "speed": 97
+  },
+  "モルペコ": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 58,
+    "sp_attack": 70,
+    "sp_defense": 58,
+    "speed": 97
+  },
+  "はらぺこもよう": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 58,
+    "sp_attack": 70,
+    "sp_defense": 58,
+    "speed": 97
+  },
+  "ゾウドウ": {
+    "hp": 72,
+    "attack": 80,
+    "defense": 49,
+    "sp_attack": 40,
+    "sp_defense": 49,
+    "speed": 40
+  },
+  "ダイオウドウ": {
+    "hp": 122,
+    "attack": 130,
+    "defense": 69,
+    "sp_attack": 80,
+    "sp_defense": 69,
+    "speed": 30
+  },
+  "パッチラゴン": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "sp_attack": 80,
+    "sp_defense": 70,
+    "speed": 75
+  },
+  "パッチルドン": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "sp_attack": 90,
+    "sp_defense": 80,
+    "speed": 55
+  },
+  "ウオノラゴン": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "sp_attack": 70,
+    "sp_defense": 80,
+    "speed": 75
+  },
+  "ウオチルドン": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "sp_attack": 80,
+    "sp_defense": 90,
+    "speed": 55
+  },
+  "ジュラルドン": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 115,
+    "sp_attack": 120,
+    "sp_defense": 50,
+    "speed": 85
+  },
+  "ドラメシヤ": {
+    "hp": 28,
+    "attack": 60,
+    "defense": 30,
+    "sp_attack": 40,
+    "sp_defense": 30,
+    "speed": 82
+  },
+  "ドロンチ": {
+    "hp": 68,
+    "attack": 80,
+    "defense": 50,
+    "sp_attack": 60,
+    "sp_defense": 50,
+    "speed": 102
+  },
+  "ドラパルト": {
+    "hp": 88,
+    "attack": 120,
+    "defense": 75,
+    "sp_attack": 100,
+    "sp_defense": 75,
+    "speed": 142
+  },
+  "れきせんのゆうしゃ": {
+    "hp": 92,
+    "attack": 120,
+    "defense": 115,
+    "sp_attack": 80,
+    "sp_defense": 115,
+    "speed": 138
+  },
+  "ザシアン": {
+    "hp": 92,
+    "attack": 120,
+    "defense": 115,
+    "sp_attack": 80,
+    "sp_defense": 115,
+    "speed": 138
+  },
+  "けんのおう": {
+    "hp": 92,
+    "attack": 150,
+    "defense": 115,
+    "sp_attack": 80,
+    "sp_defense": 115,
+    "speed": 148
+  },
+  "ザマゼンタ": {
+    "hp": 92,
+    "attack": 120,
+    "defense": 115,
+    "sp_attack": 80,
+    "sp_defense": 115,
+    "speed": 138
+  },
+  "たてのおう": {
+    "hp": 92,
+    "attack": 120,
+    "defense": 140,
+    "sp_attack": 80,
+    "sp_defense": 140,
+    "speed": 128
+  },
+  "ムゲンダイナ": {
+    "hp": 140,
+    "attack": 85,
+    "defense": 95,
+    "sp_attack": 145,
+    "sp_defense": 95,
+    "speed": 130
+  },
+  "ムゲンダイマックス": {
+    "hp": 255,
+    "attack": 115,
+    "defense": 250,
+    "sp_attack": 125,
+    "sp_defense": 250,
+    "speed": 130
+  },
+  "ダクマ": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 60,
+    "sp_attack": 53,
+    "sp_defense": 50,
+    "speed": 72
+  },
+  "いちげきのかた": {
+    "hp": 100,
+    "attack": 130,
+    "defense": 100,
+    "sp_attack": 63,
+    "sp_defense": 60,
+    "speed": 97
+  },
+  "ウーラオス": {
+    "hp": 100,
+    "attack": 130,
+    "defense": 100,
+    "sp_attack": 63,
+    "sp_defense": 60,
+    "speed": 97
+  },
+  "ザルード": {
+    "hp": 105,
+    "attack": 120,
+    "defense": 105,
+    "sp_attack": 70,
+    "sp_defense": 95,
+    "speed": 105
+  },
+  "レジエレキ": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 50,
+    "sp_attack": 100,
+    "sp_defense": 50,
+    "speed": 200
+  },
+  "レジドラゴ": {
+    "hp": 200,
+    "attack": 100,
+    "defense": 50,
+    "sp_attack": 100,
+    "sp_defense": 50,
+    "speed": 80
+  },
+  "ブリザポス": {
+    "hp": 100,
+    "attack": 145,
+    "defense": 130,
+    "sp_attack": 65,
+    "sp_defense": 110,
+    "speed": 30
+  },
+  "レイスポス": {
+    "hp": 100,
+    "attack": 65,
+    "defense": 60,
+    "sp_attack": 145,
+    "sp_defense": 80,
+    "speed": 130
+  },
+  "バドレックス": {
+    "hp": 100,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 80,
+    "sp_defense": 80,
+    "speed": 80
+  },
+  "はくばじょうのすがた": {
+    "hp": 100,
+    "attack": 165,
+    "defense": 150,
+    "sp_attack": 85,
+    "sp_defense": 130,
+    "speed": 50
+  },
+  "はくばじょう": {
+    "hp": 100,
+    "attack": 165,
+    "defense": 150,
+    "sp_attack": 85,
+    "sp_defense": 130,
+    "speed": 50
+  },
+  "こくばじょうのすがた": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 80,
+    "sp_attack": 165,
+    "sp_defense": 100,
+    "speed": 150
+  },
+  "こくばじょう": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 80,
+    "sp_attack": 165,
+    "sp_defense": 100,
+    "speed": 150
+  },
+  "アヤシシ": {
+    "hp": 103,
+    "attack": 105,
+    "defense": 72,
+    "sp_attack": 105,
+    "sp_defense": 75,
+    "speed": 65
+  },
+  "バサギリ": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 95,
+    "sp_attack": 45,
+    "sp_defense": 75,
+    "speed": 85
+  },
+  "ガチグマ": {
+    "hp": 130,
+    "attack": 140,
+    "defense": 105,
+    "sp_attack": 45,
+    "sp_defense": 80,
+    "speed": 50
+  },
+  "アカツキ": {
+    "hp": 113,
+    "attack": 70,
+    "defense": 120,
+    "sp_attack": 135,
+    "sp_defense": 65,
+    "speed": 52
+  },
+  "イダイトウ": {
+    "hp": 120,
+    "attack": 112,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 75,
+    "speed": 78
+  },
+  "オオニューラ": {
+    "hp": 80,
+    "attack": 130,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 80,
+    "speed": 120
+  },
+  "ハリーマン": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 95,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 85
+  },
+  "ラブトロス": {
+    "hp": 74,
+    "attack": 115,
+    "defense": 70,
+    "sp_attack": 135,
+    "sp_defense": 80,
+    "speed": 106
+  },
+  "ニャオハ": {
+    "hp": 40,
+    "attack": 61,
+    "defense": 54,
+    "sp_attack": 45,
+    "sp_defense": 45,
+    "speed": 65
+  },
+  "ニャローテ": {
+    "hp": 61,
+    "attack": 80,
+    "defense": 63,
+    "sp_attack": 60,
+    "sp_defense": 63,
+    "speed": 83
+  },
+  "マスカーニャ": {
+    "hp": 76,
+    "attack": 110,
+    "defense": 70,
+    "sp_attack": 81,
+    "sp_defense": 70,
+    "speed": 123
+  },
+  "ホゲータ": {
+    "hp": 67,
+    "attack": 45,
+    "defense": 59,
+    "sp_attack": 63,
+    "sp_defense": 43,
+    "speed": 36
+  },
+  "アチゲータ": {
+    "hp": 81,
+    "attack": 55,
+    "defense": 78,
+    "sp_attack": 90,
+    "sp_defense": 58,
+    "speed": 49
+  },
+  "ラウドボーン": {
+    "hp": 104,
+    "attack": 75,
+    "defense": 100,
+    "sp_attack": 110,
+    "sp_defense": 75,
+    "speed": 66
+  },
+  "クワッス": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 45,
+    "sp_attack": 50,
+    "sp_defense": 45,
+    "speed": 50
+  },
+  "ウェルカモ": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "sp_attack": 65,
+    "sp_defense": 60,
+    "speed": 65
+  },
+  "ウェーニバル": {
+    "hp": 85,
+    "attack": 120,
+    "defense": 80,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 85
+  },
+  "グルトン": {
+    "hp": 54,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 35,
+    "sp_defense": 45,
+    "speed": 35
+  },
+  "パフュートン": {
+    "hp": 110,
+    "attack": 100,
+    "defense": 75,
+    "sp_attack": 59,
+    "sp_defense": 80,
+    "speed": 65
+  },
+  "タマンチュラ": {
+    "hp": 35,
+    "attack": 41,
+    "defense": 45,
+    "sp_attack": 29,
+    "sp_defense": 40,
+    "speed": 20
+  },
+  "ワナイダー": {
+    "hp": 60,
+    "attack": 79,
+    "defense": 92,
+    "sp_attack": 52,
+    "sp_defense": 86,
+    "speed": 35
+  },
+  "マメバッタ": {
+    "hp": 33,
+    "attack": 46,
+    "defense": 40,
+    "sp_attack": 21,
+    "sp_defense": 25,
+    "speed": 45
+  },
+  "エクスレッグ": {
+    "hp": 71,
+    "attack": 102,
+    "defense": 78,
+    "sp_attack": 52,
+    "sp_defense": 55,
+    "speed": 92
+  },
+  "パモ": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 20,
+    "sp_attack": 40,
+    "sp_defense": 25,
+    "speed": 60
+  },
+  "パモット": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 40,
+    "sp_attack": 50,
+    "sp_defense": 40,
+    "speed": 85
+  },
+  "パーモット": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 70,
+    "sp_attack": 70,
+    "sp_defense": 60,
+    "speed": 105
+  },
+  "ワッカネズミ": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 45,
+    "sp_attack": 40,
+    "sp_defense": 45,
+    "speed": 75
+  },
+  "3びきかぞく": {
+    "hp": 74,
+    "attack": 75,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 111
+  },
+  "イッカネズミ": {
+    "hp": 74,
+    "attack": 75,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 111
+  },
+  "さんびきかぞく": {
+    "hp": 74,
+    "attack": 75,
+    "defense": 70,
+    "sp_attack": 65,
+    "sp_defense": 75,
+    "speed": 111
+  },
+  "パピモッチ": {
+    "hp": 37,
+    "attack": 55,
+    "defense": 70,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 65
+  },
+  "バウッツェル": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 115,
+    "sp_attack": 50,
+    "sp_defense": 80,
+    "speed": 95
+  },
+  "ミニーブ": {
+    "hp": 41,
+    "attack": 35,
+    "defense": 45,
+    "sp_attack": 56,
+    "sp_defense": 51,
+    "speed": 30
+  },
+  "オリーニョ": {
+    "hp": 52,
+    "attack": 53,
+    "defense": 60,
+    "sp_attack": 78,
+    "sp_defense": 78,
+    "speed": 33
+  },
+  "オリーヴァ": {
+    "hp": 78,
+    "attack": 69,
+    "defense": 90,
+    "sp_attack": 125,
+    "sp_defense": 109,
+    "speed": 39
+  },
+  "グリーンフェザー": {
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "sp_attack": 45,
+    "sp_defense": 51,
+    "speed": 92
+  },
+  "イキリンコ": {
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "sp_attack": 45,
+    "sp_defense": 51,
+    "speed": 92
+  },
+  "ブルーフェザー": {
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "sp_attack": 45,
+    "sp_defense": 51,
+    "speed": 92
+  },
+  "イエローフェザー": {
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "sp_attack": 45,
+    "sp_defense": 51,
+    "speed": 92
+  },
+  "ホワイトフェザー": {
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "sp_attack": 45,
+    "sp_defense": 51,
+    "speed": 92
+  },
+  "コジオ": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 75,
+    "sp_attack": 35,
+    "sp_defense": 35,
+    "speed": 75
+  },
+  "ジオヅム": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "sp_attack": 35,
+    "sp_defense": 65,
+    "speed": 35
+  },
+  "キョジオーン": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 130,
+    "sp_attack": 45,
+    "sp_defense": 90,
+    "speed": 35
+  },
+  "カルボウ": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "sp_attack": 50,
+    "sp_defense": 40,
+    "speed": 35
+  },
+  "グレンアルマ": {
+    "hp": 85,
+    "attack": 60,
+    "defense": 100,
+    "sp_attack": 125,
+    "sp_defense": 80,
+    "speed": 75
+  },
+  "ソウブレイズ": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 80,
+    "sp_attack": 60,
+    "sp_defense": 100,
+    "speed": 85
+  },
+  "ズピカ": {
+    "hp": 61,
+    "attack": 31,
+    "defense": 41,
+    "sp_attack": 59,
+    "sp_defense": 35,
+    "speed": 45
+  },
+  "ハラバリー": {
+    "hp": 109,
+    "attack": 64,
+    "defense": 91,
+    "sp_attack": 103,
+    "sp_defense": 83,
+    "speed": 45
+  },
+  "カイデン": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "sp_attack": 55,
+    "sp_defense": 40,
+    "speed": 70
+  },
+  "タイカイデン": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 60,
+    "sp_attack": 105,
+    "sp_defense": 60,
+    "speed": 125
+  },
+  "オラチフ": {
+    "hp": 60,
+    "attack": 78,
+    "defense": 60,
+    "sp_attack": 40,
+    "sp_defense": 51,
+    "speed": 51
+  },
+  "マフィティフ": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 90,
+    "sp_attack": 60,
+    "sp_defense": 70,
+    "speed": 85
+  },
+  "シルシュルー": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 35,
+    "sp_attack": 40,
+    "sp_defense": 35,
+    "speed": 75
+  },
+  "タギングル": {
+    "hp": 63,
+    "attack": 95,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 72,
+    "speed": 110
+  },
+  "アノクサ": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 30,
+    "sp_attack": 45,
+    "sp_defense": 35,
+    "speed": 60
+  },
+  "アノホラグサ": {
+    "hp": 55,
+    "attack": 115,
+    "defense": 70,
+    "sp_attack": 80,
+    "sp_defense": 70,
+    "speed": 90
+  },
+  "ノノクラゲ": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "sp_attack": 50,
+    "sp_defense": 100,
+    "speed": 70
+  },
+  "リククラゲ": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "sp_attack": 80,
+    "sp_defense": 120,
+    "speed": 100
+  },
+  "ガケガニ": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "sp_attack": 35,
+    "sp_defense": 55,
+    "speed": 75
+  },
+  "カプサイジ": {
+    "hp": 50,
+    "attack": 62,
+    "defense": 40,
+    "sp_attack": 62,
+    "sp_defense": 40,
+    "speed": 50
+  },
+  "スコヴィラン": {
+    "hp": 65,
+    "attack": 108,
+    "defense": 65,
+    "sp_attack": 108,
+    "sp_defense": 65,
+    "speed": 75
+  },
+  "メガスコヴィラン": {
+    "hp": 65,
+    "attack": 138,
+    "defense": 85,
+    "sp_attack": 138,
+    "sp_defense": 85,
+    "speed": 75
+  },
+  "シガロコ": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 60,
+    "sp_attack": 31,
+    "sp_defense": 58,
+    "speed": 30
+  },
+  "ベラカス": {
+    "hp": 75,
+    "attack": 50,
+    "defense": 85,
+    "sp_attack": 115,
+    "sp_defense": 100,
+    "speed": 45
+  },
+  "ヒラヒナ": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "sp_attack": 55,
+    "sp_defense": 30,
+    "speed": 75
+  },
+  "クエスパトラ": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 60,
+    "sp_attack": 101,
+    "sp_defense": 60,
+    "speed": 105
+  },
+  "カヌチャン": {
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 35,
+    "sp_defense": 64,
+    "speed": 58
+  },
+  "ナカヌチャン": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 55,
+    "sp_attack": 45,
+    "sp_defense": 82,
+    "speed": 78
+  },
+  "デカヌチャン": {
+    "hp": 85,
+    "attack": 75,
+    "defense": 77,
+    "sp_attack": 70,
+    "sp_defense": 105,
+    "speed": 94
+  },
+  "ウミディグダ": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "sp_attack": 35,
+    "sp_defense": 45,
+    "speed": 95
+  },
+  "ウミトリオ": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "sp_attack": 50,
+    "sp_defense": 70,
+    "speed": 120
+  },
+  "オトシドリ": {
+    "hp": 70,
+    "attack": 103,
+    "defense": 85,
+    "sp_attack": 60,
+    "sp_defense": 85,
+    "speed": 82
+  },
+  "ナミイルカ": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 40,
+    "sp_attack": 45,
+    "sp_defense": 40,
+    "speed": 75
+  },
+  "ナイーブフォルム": {
+    "hp": 100,
+    "attack": 70,
+    "defense": 72,
+    "sp_attack": 53,
+    "sp_defense": 62,
+    "speed": 100
+  },
+  "イルカマン": {
+    "hp": 100,
+    "attack": 70,
+    "defense": 72,
+    "sp_attack": 53,
+    "sp_defense": 62,
+    "speed": 100
+  },
+  "マイティフォルム": {
+    "hp": 100,
+    "attack": 160,
+    "defense": 97,
+    "sp_attack": 106,
+    "sp_defense": 87,
+    "speed": 100
+  },
+  "ブロロン": {
+    "hp": 45,
+    "attack": 70,
+    "defense": 63,
+    "sp_attack": 30,
+    "sp_defense": 45,
+    "speed": 47
+  },
+  "ブロロローム": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "セギン・スターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "セギンスターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "シェダル・スターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "シェダルスターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "シー・スターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "シースターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "ルクバー・スターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "ルクバースターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "カーフ・スターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "カーフスターモービル": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "sp_attack": 54,
+    "sp_defense": 67,
+    "speed": 90
+  },
+  "モトトカゲ": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 65,
+    "sp_attack": 85,
+    "sp_defense": 65,
+    "speed": 121
+  },
+  "ミミズズ": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 145,
+    "sp_attack": 60,
+    "sp_defense": 55,
+    "speed": 65
+  },
+  "キラーメ": {
+    "hp": 48,
+    "attack": 35,
+    "defense": 42,
+    "sp_attack": 105,
+    "sp_defense": 60,
+    "speed": 60
+  },
+  "キラフロル": {
+    "hp": 83,
+    "attack": 55,
+    "defense": 90,
+    "sp_attack": 130,
+    "sp_defense": 81,
+    "speed": 86
+  },
+  "メガキラフロル": {
+    "hp": 83,
+    "attack": 90,
+    "defense": 105,
+    "sp_attack": 150,
+    "sp_defense": 96,
+    "speed": 101
+  },
+  "ボチ": {
+    "hp": 50,
+    "attack": 61,
+    "defense": 60,
+    "sp_attack": 30,
+    "sp_defense": 55,
+    "speed": 34
+  },
+  "ハカドッグ": {
+    "hp": 72,
+    "attack": 101,
+    "defense": 100,
+    "sp_attack": 50,
+    "sp_defense": 97,
+    "speed": 68
+  },
+  "カラミンゴ": {
+    "hp": 82,
+    "attack": 115,
+    "defense": 74,
+    "sp_attack": 75,
+    "sp_defense": 64,
+    "speed": 90
+  },
+  "アルクジラ": {
+    "hp": 108,
+    "attack": 69,
+    "defense": 45,
+    "sp_attack": 30,
+    "sp_defense": 40,
+    "speed": 43
+  },
+  "ハルクジラ": {
+    "hp": 170,
+    "attack": 113,
+    "defense": 65,
+    "sp_attack": 45,
+    "sp_defense": 55,
+    "speed": 73
+  },
+  "ミガルーサ": {
+    "hp": 90,
+    "attack": 102,
+    "defense": 73,
+    "sp_attack": 78,
+    "sp_defense": 65,
+    "speed": 70
+  },
+  "ヘイラッシャ": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 115,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 35
+  },
+  "そったすがた": {
+    "hp": 68,
+    "attack": 50,
+    "defense": 60,
+    "sp_attack": 120,
+    "sp_defense": 95,
+    "speed": 82
+  },
+  "シャリタツ": {
+    "hp": 68,
+    "attack": 50,
+    "defense": 60,
+    "sp_attack": 120,
+    "sp_defense": 95,
+    "speed": 82
+  },
+  "メガシャリタツ（そったすがた）": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 125,
+    "speed": 92
+  },
+  "メガシャリタツそったすがた": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 125,
+    "speed": 92
+  },
+  "メガシャリタツ（たれたすがた）": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 125,
+    "speed": 92
+  },
+  "メガシャリタツたれたすがた": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 125,
+    "speed": 92
+  },
+  "メガシャリタツ（のびたすがた）": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 125,
+    "speed": 92
+  },
+  "メガシャリタツのびたすがた": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 90,
+    "sp_attack": 135,
+    "sp_defense": 125,
+    "speed": 92
+  },
+  "コノヨザル": {
+    "hp": 110,
+    "attack": 115,
+    "defense": 80,
+    "sp_attack": 50,
+    "sp_defense": 90,
+    "speed": 90
+  },
+  "ドオー": {
+    "hp": 130,
+    "attack": 75,
+    "defense": 60,
+    "sp_attack": 45,
+    "sp_defense": 100,
+    "speed": 20
+  },
+  "リキキリン": {
+    "hp": 120,
+    "attack": 90,
+    "defense": 70,
+    "sp_attack": 110,
+    "sp_defense": 70,
+    "speed": 60
+  },
+  "ふたふしフォルム": {
+    "hp": 125,
+    "attack": 100,
+    "defense": 80,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 55
+  },
+  "ノココッチ": {
+    "hp": 125,
+    "attack": 100,
+    "defense": 80,
+    "sp_attack": 85,
+    "sp_defense": 75,
+    "speed": 55
+  },
+  "ドドゲザン": {
+    "hp": 100,
+    "attack": 135,
+    "defense": 120,
+    "sp_attack": 60,
+    "sp_defense": 85,
+    "speed": 50
+  },
+  "イダイナキバ": {
+    "hp": 115,
+    "attack": 131,
+    "defense": 131,
+    "sp_attack": 53,
+    "sp_defense": 53,
+    "speed": 87
+  },
+  "サケブシッポ": {
+    "hp": 115,
+    "attack": 65,
+    "defense": 99,
+    "sp_attack": 65,
+    "sp_defense": 115,
+    "speed": 111
+  },
+  "アラブルタケ": {
+    "hp": 111,
+    "attack": 127,
+    "defense": 99,
+    "sp_attack": 79,
+    "sp_defense": 99,
+    "speed": 55
+  },
+  "ハバタクカミ": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 55,
+    "sp_attack": 135,
+    "sp_defense": 135,
+    "speed": 135
+  },
+  "チヲハウハネ": {
+    "hp": 85,
+    "attack": 135,
+    "defense": 79,
+    "sp_attack": 85,
+    "sp_defense": 105,
+    "speed": 81
+  },
+  "スナノケガワ": {
+    "hp": 85,
+    "attack": 81,
+    "defense": 97,
+    "sp_attack": 121,
+    "sp_defense": 85,
+    "speed": 101
+  },
+  "テツノワダチ": {
+    "hp": 90,
+    "attack": 112,
+    "defense": 120,
+    "sp_attack": 72,
+    "sp_defense": 70,
+    "speed": 106
+  },
+  "テツノツツミ": {
+    "hp": 56,
+    "attack": 80,
+    "defense": 114,
+    "sp_attack": 124,
+    "sp_defense": 60,
+    "speed": 136
+  },
+  "テツノカイナ": {
+    "hp": 154,
+    "attack": 140,
+    "defense": 108,
+    "sp_attack": 50,
+    "sp_defense": 68,
+    "speed": 50
+  },
+  "テツノコウベ": {
+    "hp": 94,
+    "attack": 80,
+    "defense": 86,
+    "sp_attack": 122,
+    "sp_defense": 80,
+    "speed": 108
+  },
+  "テツノドクガ": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 60,
+    "sp_attack": 140,
+    "sp_defense": 110,
+    "speed": 110
+  },
+  "テツノイバラ": {
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "sp_attack": 70,
+    "sp_defense": 84,
+    "speed": 72
+  },
+  "セビエ": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 45,
+    "sp_attack": 35,
+    "sp_defense": 45,
+    "speed": 55
+  },
+  "セゴール": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 66,
+    "sp_attack": 45,
+    "sp_defense": 65,
+    "speed": 62
+  },
+  "セグレイブ": {
+    "hp": 115,
+    "attack": 145,
+    "defense": 92,
+    "sp_attack": 75,
+    "sp_defense": 86,
+    "speed": 87
+  },
+  "メガセグレイブ": {
+    "hp": 115,
+    "attack": 175,
+    "defense": 117,
+    "sp_attack": 105,
+    "sp_defense": 101,
+    "speed": 87
+  },
+  "はこフォルム": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 70,
+    "sp_attack": 75,
+    "sp_defense": 70,
+    "speed": 10
+  },
+  "コレクレー": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 70,
+    "sp_attack": 75,
+    "sp_defense": 70,
+    "speed": 10
+  },
+  "とほフォルム": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 25,
+    "sp_attack": 75,
+    "sp_defense": 45,
+    "speed": 80
+  },
+  "サーフゴー": {
+    "hp": 87,
+    "attack": 60,
+    "defense": 95,
+    "sp_attack": 133,
+    "sp_defense": 91,
+    "speed": 84
+  },
+  "チオンジェン": {
+    "hp": 85,
+    "attack": 85,
+    "defense": 100,
+    "sp_attack": 95,
+    "sp_defense": 135,
+    "speed": 70
+  },
+  "パオジアン": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "sp_attack": 90,
+    "sp_defense": 65,
+    "speed": 135
+  },
+  "ディンルー": {
+    "hp": 155,
+    "attack": 110,
+    "defense": 125,
+    "sp_attack": 55,
+    "sp_defense": 80,
+    "speed": 45
+  },
+  "イーユイ": {
+    "hp": 55,
+    "attack": 80,
+    "defense": 80,
+    "sp_attack": 135,
+    "sp_defense": 120,
+    "speed": 100
+  },
+  "トドロクツキ": {
+    "hp": 105,
+    "attack": 139,
+    "defense": 71,
+    "sp_attack": 55,
+    "sp_defense": 101,
+    "speed": 119
+  },
+  "テツノブジン": {
+    "hp": 74,
+    "attack": 130,
+    "defense": 90,
+    "sp_attack": 120,
+    "sp_defense": 60,
+    "speed": 116
+  },
+  "かんぜんけいたい": {
+    "hp": 100,
+    "attack": 135,
+    "defense": 115,
+    "sp_attack": 85,
+    "sp_defense": 100,
+    "speed": 135
+  },
+  "コライドン": {
+    "hp": 100,
+    "attack": 135,
+    "defense": 115,
+    "sp_attack": 85,
+    "sp_defense": 100,
+    "speed": 135
+  },
+  "ミライドン": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 100,
+    "sp_attack": 135,
+    "sp_defense": 115,
+    "speed": 135
+  },
+  "ウネルミナモ": {
+    "hp": 99,
+    "attack": 83,
+    "defense": 91,
+    "sp_attack": 125,
+    "sp_defense": 83,
+    "speed": 109
+  },
+  "テツノイサハ": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 88,
+    "sp_attack": 70,
+    "sp_defense": 108,
+    "speed": 104
+  },
+  "カミッチュ": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 95,
+    "sp_defense": 80,
+    "speed": 40
+  },
+  "マガイモノのすがた": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 74,
+    "sp_defense": 54,
+    "speed": 50
+  },
+  "マガイモノ": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 74,
+    "sp_defense": 54,
+    "speed": 50
+  },
+  "チャデス": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 45,
+    "sp_attack": 74,
+    "sp_defense": 54,
+    "speed": 50
+  },
+  "ボンサクのすがた": {
+    "hp": 71,
+    "attack": 60,
+    "defense": 106,
+    "sp_attack": 121,
+    "sp_defense": 80,
+    "speed": 70
+  },
+  "ボンサク": {
+    "hp": 71,
+    "attack": 60,
+    "defense": 106,
+    "sp_attack": 121,
+    "sp_defense": 80,
+    "speed": 70
+  },
+  "ヤバソチャ": {
+    "hp": 71,
+    "attack": 60,
+    "defense": 106,
+    "sp_attack": 121,
+    "sp_defense": 80,
+    "speed": 70
+  },
+  "イイネイヌ": {
+    "hp": 88,
+    "attack": 128,
+    "defense": 115,
+    "sp_attack": 58,
+    "sp_defense": 86,
+    "speed": 80
+  },
+  "マシマシラ": {
+    "hp": 88,
+    "attack": 75,
+    "defense": 66,
+    "sp_attack": 130,
+    "sp_defense": 90,
+    "speed": 106
+  },
+  "キチキギス": {
+    "hp": 88,
+    "attack": 91,
+    "defense": 82,
+    "sp_attack": 70,
+    "sp_defense": 125,
+    "speed": 99
+  },
+  "みどりのめん": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "sp_attack": 60,
+    "sp_defense": 96,
+    "speed": 110
+  },
+  "オーガポン": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "sp_attack": 60,
+    "sp_defense": 96,
+    "speed": 110
+  },
+  "いどのめん": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "sp_attack": 60,
+    "sp_defense": 96,
+    "speed": 110
+  },
+  "かまどのめん": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "sp_attack": 60,
+    "sp_defense": 96,
+    "speed": 110
+  },
+  "いしずえのめん": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 84,
+    "sp_attack": 60,
+    "sp_defense": 96,
+    "speed": 110
+  },
+  "ブリジュラス": {
+    "hp": 90,
+    "attack": 105,
+    "defense": 130,
+    "sp_attack": 125,
+    "sp_defense": 65,
+    "speed": 85
+  },
+  "カミツオロチ": {
+    "hp": 106,
+    "attack": 80,
+    "defense": 110,
+    "sp_attack": 120,
+    "sp_defense": 80,
+    "speed": 44
+  },
+  "ウガツホムラ": {
+    "hp": 105,
+    "attack": 115,
+    "defense": 121,
+    "sp_attack": 65,
+    "sp_defense": 93,
+    "speed": 91
+  },
+  "タケルライコ": {
+    "hp": 125,
+    "attack": 73,
+    "defense": 91,
+    "sp_attack": 137,
+    "sp_defense": 89,
+    "speed": 75
+  },
+  "テツノイワオ": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 80,
+    "sp_attack": 68,
+    "sp_defense": 108,
+    "speed": 124
+  },
+  "テツノカシラ": {
+    "hp": 90,
+    "attack": 72,
+    "defense": 100,
+    "sp_attack": 122,
+    "sp_defense": 108,
+    "speed": 98
+  },
+  "テラパゴス": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 85,
+    "sp_attack": 65,
+    "sp_defense": 85,
+    "speed": 60
+  },
+  "テラスタルフォルム": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 110,
+    "sp_attack": 105,
+    "sp_defense": 110,
+    "speed": 85
+  },
+  "ステラフォルム": {
+    "hp": 160,
+    "attack": 105,
+    "defense": 110,
+    "sp_attack": 130,
+    "sp_defense": 110,
+    "speed": 85
+  },
+  "モモワロウ": {
+    "hp": 88,
+    "attack": 88,
+    "defense": 160,
+    "sp_attack": 88,
+    "sp_defense": 88,
+    "speed": 88
+  }
+}
