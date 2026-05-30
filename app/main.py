@@ -51,8 +51,15 @@ async def alexa_endpoint(request: Request):
     Alexaからのリクエストを受け取るメインのエンドポイントです。
     """
     try:
-        # リクエストJSONを取得
-        payload = await request.json()
+        # リクエストのバイト列を取得し、エンコーディングに応じてデコードする。
+        # Alexaシミュレーター(ja-JP)はShift-JIS(cp932)でリクエストを送る場合がある。
+        body = await request.body()
+        try:
+            body_str = body.decode("utf-8")
+        except UnicodeDecodeError:
+            logger.warning("UTF-8デコード失敗。cp932(Shift-JIS)でリトライします。")
+            body_str = body.decode("cp932")
+        payload = json.loads(body_str)
         logger.info(f"受信したリクエスト: {json.dumps(payload, ensure_ascii=False)}")
         
         # リクエストエンベロープにデシリアライズ

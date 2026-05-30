@@ -41,8 +41,9 @@ class PokemonStatsIntentHandler(AbstractRequestHandler):
     def handle(self, handler_input):
         # type: (HandlerInput) -> Response
         logger.info("PokemonStatsIntentを受信しました。")
-        slots = handler_input.request_envelope.request.intent.slots
-        
+        # slots が None の場合（スロット未定義インテント）に備えて空辞書にフォールバック
+        slots = handler_input.request_envelope.request.intent.slots or {}
+
         # スロット「pokemon」から値を取得
         pokemon_slot = slots.get("pokemon")
         
