@@ -63,6 +63,7 @@ jobs:
           docker logs smoke
           echo "/ -> $code"
           [ "$code" != "000" ]
+          [ "$(docker exec smoke id -u)" != 0 ]
           echo "確認 OK"
 
       - name: GHCR にログイン
