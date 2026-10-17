@@ -1,0 +1,89 @@
+# =============================================================================
+#  配信イメージのビルド
+# -----------------------------------------------------------------------------
+#  main への push で 配信イメージ（セルフホスト用の app/）を作り、GHCR に置く。
+#  タグは main（配信先が追う）とコミット SHA（戻すとき用）。
+#  配信先（shakeserver、Raspberry Pi 5）は arm64 なので arm64 と amd64 を作る。
+#  PR ではビルドと起動の確認だけをし、push しない。
+#  手動実行（workflow_dispatch）でも push する（配信先を切り替える前の初回用）。
+# =============================================================================
+name: Image
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  packages: write
+
+env:
+  IMAGE: ghcr.io/ruruthegeek/pokebs-alexaskill
+
+jobs:
+  build:
+    name: イメージをビルド
+    runs-on: ubuntu-latest
+    steps:
+      - name: ソースコードを取得
+        uses: actions/checkout@v4
+
+      # 最終段で pip install するため、arm64 はエミュレーションで作る
+      - name: QEMU をセットアップ
+        uses: docker/setup-qemu-action@v3
+
+      - name: Buildx をセットアップ
+        uses: docker/setup-buildx-action@v3
+
+      # 起動の確認（サーバーが起動して HTTP に応答することだけを見る）
+      - name: 確認用にビルド
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          load: true
+          tags: app:smoke
+          cache-from: type=gha
+
+      - name: 起動して確認
+        run: |
+          set -eu
+          docker run -d --name smoke -p 8000:8000 app:smoke
+          for i in $(seq 1 30); do
+            code=$(curl -s -o /dev/null -w '%{http_code}' http://localhost:8000/ || true)
+            [ "$code" != "000" ] && break
+            sleep 1
+          done
+          docker logs smoke
+          echo "/ -> $code"
+          [ "$code" != "000" ]
+          echo "確認 OK"
+
+      - name: GHCR にログイン
+        if: github.event_name != 'pull_request'
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ビルドして push
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          platforms: linux/arm64,linux/amd64
+          push: ${{ github.event_name != 'pull_request' }}
+          tags: |
+            ${{ env.IMAGE }}:main
+            ${{ env.IMAGE }}:${{ github.sha }}
+          labels: |
+            org.opencontainers.image.source=${{ github.server_url }}/${{ github.repository }}
+            org.opencontainers.image.revision=${{ github.sha }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
